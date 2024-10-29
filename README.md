@@ -13,7 +13,7 @@ Fueled by a passion for technology and a strong foundation in leadership, I'm tr
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Use the NIST Cybersecurity Framework to respond to a security incident          | <a href="https://docs.google.com/document/d/1UXGnTPeBAFwRkiN7dQvqhWTEwj84_8vz/edit?usp=drive_link&ouid=105064495821226407439&rtpof=true&sd=true">Applying the NIST CSF</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Use Linux commands to manage file permissions | <a href="https://docs.google.com/document/d/12wldwY7MB49m1PgouLjjarlcc1Ty1pf3FqNOfK4RBQE/edit?usp=sharing">File permissions in Linux</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
