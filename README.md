@@ -17,7 +17,7 @@ Fueled by a passion for technology and a strong foundation in leadership, I'm tr
 | Apply filters to SQL queries         | <a href="https://docs.google.com/document/d/12wldwY7MB49m1PgouLjjarlcc1Ty1pf3FqNOfK4RBQE/edit?usp=sharing">Apply filters to SQL queries</a>||
 | Analyze a vulnerable system for a small business         | <a href="https://docs.google.com/document/d/12wldwY7MB49m1PgouLjjarlcc1Ty1pf3FqNOfK4RBQE/edit?usp=sharing">Vulnerability Assessment Report</a>||
 | Identify the attack vectors of a USB drive         | <a href="https://docs.google.com/document/d/12wldwY7MB49m1PgouLjjarlcc1Ty1pf3FqNOfK4RBQE/edit?usp=sharing">Parking lot USB exercise</a>||
-| Apply filters to SQL queries         | <a href="https://docs.google.com/document/d/12wldwY7MB49m1PgouLjjarlcc1Ty1pf3FqNOfK4RBQE/edit?usp=sharing">Apply filters to SQL queries</a>||
+| Classify the assets connected to a home network         | <a href="https://docs.google.com/document/d/12wldwY7MB49m1PgouLjjarlcc1Ty1pf3FqNOfK4RBQE/edit?usp=sharing">Home asset inventory</a>||
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
