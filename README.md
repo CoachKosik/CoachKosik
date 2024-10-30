@@ -19,7 +19,7 @@ Fueled by a passion for technology and a strong foundation in leadership, I'm tr
 | Identify the attack vectors of a USB drive         | <a href="https://docs.google.com/document/d/1xCJ48OuZ_CU0A5adgc4jkmkW5LQz3hzqdHWgjcTWSHg/edit?usp=sharing">Parking lot USB exercise</a>||
 | Classify the assets connected to a home network         | <a href="https://docs.google.com/spreadsheets/d/15AmlnRWmVIluhVt9hN-f8cJ9OxEcTLeBOvlye4IM_Cc/edit?usp=sharing">Home asset inventory</a>||
 | Conduct a security audit         | <a href="https://docs.google.com/document/d/1mX5zOKhIm6Q8o2sWqSA2BWqL1C-TZLKAPRFX-Iili00/edit?usp=sharing">Controls and compliance checklist</a>||
-| Conduct a security audit         | <a href="https://docs.google.com/document/d/1mX5zOKhIm6Q8o2sWqSA2BWqL1C-TZLKAPRFX-Iili00/edit?usp=sharing">Controls and compliance checklist</a>||
+| Score risks based on their likelihood and severity         | <a href="https://docs.google.com/document/d/1R7GdZumP7gXRNjD1dOaMuMlB3dD0gRmX/edit?usp=sharing&ouid=105064495821226407439&rtpof=true&sd=true">Risk Register</a>||
 
 
 ## Tools
