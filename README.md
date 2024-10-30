@@ -20,7 +20,7 @@ Fueled by a passion for technology and a strong foundation in leadership, I'm tr
 | Classify the assets connected to a home network         | <a href="https://docs.google.com/spreadsheets/d/15AmlnRWmVIluhVt9hN-f8cJ9OxEcTLeBOvlye4IM_Cc/edit?usp=sharing">Home asset inventory</a>||
 | Conduct a security audit         | <a href="https://docs.google.com/document/d/1mX5zOKhIm6Q8o2sWqSA2BWqL1C-TZLKAPRFX-Iili00/edit?usp=sharing">Controls and compliance checklist</a>||
 | Score risks based on their likelihood and severity         | <a href="https://docs.google.com/document/d/1R7GdZumP7gXRNjD1dOaMuMlB3dD0gRmX/edit?usp=sharing&ouid=105064495821226407439&rtpof=true&sd=true">Risk Register</a>|
-| Decrypt an encrypted message         | <a href="https://drive.google.com/file/d/1TdchOfAlxzyW4tToIu_GT0ucByrkattM/view?usp=sharing">Decryption</a>|
+| Decrypt a Caesar Cypher encrypted message         | <a href="https://drive.google.com/file/d/1TdchOfAlxzyW4tToIu_GT0ucByrkattM/view?usp=sharing">Decryption</a>|
 
 
 ## Tools
