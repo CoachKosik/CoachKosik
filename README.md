@@ -25,7 +25,7 @@ Fueled by a passion for technology and a strong foundation in leadership, I'm tr
 | Determine appropriate data handling practices         | <a href="https://docs.google.com/document/d/1y0MesBW_6yjRF6M3Uuu23VydaBvfLq8TItNfsNAsuMw/edit?usp=sharing">Data leak worksheet</a>|
 | Improve authentication, authorization, and accounting for a small business         | <a href="https://docs.google.com/document/d/1RkKlWTRO_jXhmYw3lXFSmgcc63ciomdSb2vVxfL7Dzo/edit?usp=sharing">Access controls worksheet</a>|
 | Document incidents with incident handler's journals         | <a href="https://docs.google.com/document/d/1vrN1QgG070_AoVgqCwIShvMiKb8W4WVeHHrRchtRPRs/edit?usp=sharing">Incident handler's journal</a>|
-| Analyzing packets with Wireshark         | <a href="https://docs.google.com/document/d/1vrN1QgG070_AoVgqCwIShvMiKb8W4WVeHHrRchtRPRs/edit?usp=sharing">Analyze packets with Wireshark</a>|
+| Analyzing packets with Wireshark on a VM         | <a href="https://docs.google.com/document/d/1Xg_i8XqLCSrpxMfahVL8_KslsRO_mM9vUwRRkhm1gtQ/edit?usp=sharing">Analyze packets with Wireshark</a>|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
