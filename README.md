@@ -8,7 +8,6 @@ Recently changing careers in high level leadership and management at the college
 Fueled by a passion for technology and a strong foundation in leadership, I'm transitioning into cybersecurity.  My recent Google Cybersecurity and AI Essentials certifications, coupled with my ongoing pursuit of the CompTIA Security+, demonstrate my commitment to this field.  My ultimate goal is to specialize in Identity and Access Management (IAM), leveraging my analytical and problem-solving skills to safeguard critical systems.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
