@@ -13,12 +13,15 @@ Fueled by a passion for technology and a strong foundation in leadership, I'm tr
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Use the NIST Cybersecurity Framework to respond to a security incident          | <a href="https://docs.google.com/document/d/1UXGnTPeBAFwRkiN7dQvqhWTEwj84_8vz/edit?usp=drive_link&ouid=105064495821226407439&rtpof=true&sd=true">Applying the NIST CSF</a>|
+| Network Security, Incident Reports, and Risk Assessments          | <a href="https://docs.google.com/document/d/1cuPXp7aDhehf9KP3VkbXoSyRjsJIHyfaUeS27iXJioc/edit?usp=sharing">Cybersecurity Incident Reports and Risk Assessment</a>|
 | Use Linux commands to manage file permissions | <a href="https://docs.google.com/document/d/12wldwY7MB49m1PgouLjjarlcc1Ty1pf3FqNOfK4RBQE/edit?usp=sharing">File permissions in Linux</a>|
 | Apply filters to SQL queries         | <a href="https://docs.google.com/document/d/1V-OEULYlPjjr2mrM195Js4D-VeVyfXN_dVfCLoZtSfQ/edit?usp=sharing">Apply filters to SQL queries</a>||
 | Analyze a vulnerable system for a small business         | <a href="https://docs.google.com/document/d/1TFZ2W5TqjFtP5lXvbfvb57fcOryTuYr89S5h92ejWQw/edit?usp=sharing">Vulnerability Assessment Report</a>||
 | Identify the attack vectors of a USB drive         | <a href="https://docs.google.com/document/d/1xCJ48OuZ_CU0A5adgc4jkmkW5LQz3hzqdHWgjcTWSHg/edit?usp=sharing">Parking lot USB exercise</a>||
 | Classify the assets connected to a home network         | <a href="https://docs.google.com/spreadsheets/d/15AmlnRWmVIluhVt9hN-f8cJ9OxEcTLeBOvlye4IM_Cc/edit?usp=sharing">Home asset inventory</a>||
 | Conduct a security audit         | <a href="https://docs.google.com/document/d/1mX5zOKhIm6Q8o2sWqSA2BWqL1C-TZLKAPRFX-Iili00/edit?usp=sharing">Controls and compliance checklist</a>||
+| Conduct a security audit         | <a href="https://docs.google.com/document/d/1mX5zOKhIm6Q8o2sWqSA2BWqL1C-TZLKAPRFX-Iili00/edit?usp=sharing">Controls and compliance checklist</a>||
+
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
