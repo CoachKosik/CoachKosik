@@ -58,7 +58,9 @@ Fueled by a passion for technology and a strong foundation in leadership, I'm tr
 
 ## Certifications
 <div>
-<img src="https://coursera.org/share/31598826845bd259033fbac98e6bd2c2" />
+<a href="https://coursera.org/share/31598826845bd259033fbac98e6bd2c2">
+    <img src="https://img.shields.io/badge/-Coursera-0056B3?&style=for-the-badge&logo=Coursera&logoColor=white" />
+</a>
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
