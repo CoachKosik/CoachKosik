@@ -35,7 +35,6 @@ Fueled by a passion for technology and a strong foundation in leadership, I'm tr
 | Splunk Intro: Perform a query with Splunk         | <a href="https://docs.google.com/document/d/1X0kBj6JbtXLd8ezKrDn7wG-Amvt45oRDcr9JEW0IP3A/edit?usp=sharing">Splunk Lab</a>|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -56,13 +55,14 @@ Fueled by a passion for technology and a strong foundation in leadership, I'm tr
 
 ## Certifications
 <div>
-Google Cybersecurity Perfessional Certification <a href="https://coursera.org/share/31598826845bd259033fbac98e6bd2c2">
-    <img src="https://img.shields.io/badge/-Coursera-0056B3?&style=for-the-badge&logo=Coursera&logoColor=white" />
-</a>
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+Google Cybersecurity Perfessional Certification <br>
+    <a href="https://coursera.org/share/31598826845bd259033fbac98e6bd2c2">
+    <img src="https://img.shields.io/badge/-Coursera-0056B3?&style=for-the-badge&logo=Coursera&logoColor=white"/></a><br>
+Google AI Essentials Certification <br>
+    <a href="https://coursera.org/share/7f7707721943fc1158e0f9ab07ffadad">
+    <img src="https://img.shields.io/badge/-Coursera-0056B3?&style=for-the-badge&logo=Coursera&logoColor=white"/></a><br>
+Preperation for CompTIA Security+ (estimated by the end of 2024)<br>
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" /><br>
 </div>
 
 ## Projects
