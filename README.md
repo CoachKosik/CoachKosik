@@ -33,7 +33,6 @@ Fueled by a passion for technology and a strong foundation in leadership, I'm tr
 | Using tcpdump to capture and analyze live network traffic from a Linux VM         | <a href="https://docs.google.com/document/d/1IYXkQCagblu4xgnnZcv8N9N7M5bHTBDw/edit?usp=sharing&ouid=105064495821226407439&rtpof=true&sd=true">Alert Ticket</a>|
 | Explore signatures and logs with Suricata         | <a href="https://docs.google.com/document/d/19KQYlErtPr1cEafaGvayZHiPUFlm38syanW5TG3oLU4/edit?usp=sharing">Suricata Lab</a>|
 | Splunk Intro: Perform a query with Splunk         | <a href="https://docs.google.com/document/d/1X0kBj6JbtXLd8ezKrDn7wG-Amvt45oRDcr9JEW0IP3A/edit?usp=sharing">Splunk Lab</a>|
-| Splunk Intro: Perform a query with Splunk         | <a href="https://docs.google.com/document/d/1X0kBj6JbtXLd8ezKrDn7wG-Amvt45oRDcr9JEW0IP3A/edit?usp=sharing">Splunk Lab</a>|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
@@ -43,7 +42,6 @@ Fueled by a passion for technology and a strong foundation in leadership, I'm tr
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-tcpdump-FF4B00?&style=for-the-badge&logo=tcpdump&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-007CBA?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
 ### Endpoint
@@ -58,7 +56,7 @@ Fueled by a passion for technology and a strong foundation in leadership, I'm tr
 
 ## Certifications
 <div>
-<a href="https://coursera.org/share/31598826845bd259033fbac98e6bd2c2">
+Google Cybersecurity Perfessional Certification <a href="https://coursera.org/share/31598826845bd259033fbac98e6bd2c2">
     <img src="https://img.shields.io/badge/-Coursera-0056B3?&style=for-the-badge&logo=Coursera&logoColor=white" />
 </a>
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
