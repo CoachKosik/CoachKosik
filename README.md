@@ -11,6 +11,7 @@ Fueled by a passion for technology and a strong foundation in leadership, I'm tr
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Conduct a security audit - Controls & Compliance Checklist          | <a href="https://docs.google.com/document/d/1YBWjWCjWBkWV1QPhZqYbuvvTyN8_FQr7Sfv2hCZ4Q98/edit?usp=sharing">Controls and compliance checklist</a>|
 | Use the NIST Cybersecurity Framework to respond to a security incident          | <a href="https://docs.google.com/document/d/1UXGnTPeBAFwRkiN7dQvqhWTEwj84_8vz/edit?usp=drive_link&ouid=105064495821226407439&rtpof=true&sd=true">Applying the NIST CSF</a>|
 | Network Security, Incident Reports, and Risk Assessments          | <a href="https://docs.google.com/document/d/1cuPXp7aDhehf9KP3VkbXoSyRjsJIHyfaUeS27iXJioc/edit?usp=sharing">Cybersecurity Incident Reports and Risk Assessment</a>|
 | Use Linux commands to manage file permissions | <a href="https://docs.google.com/document/d/12wldwY7MB49m1PgouLjjarlcc1Ty1pf3FqNOfK4RBQE/edit?usp=sharing">File permissions in Linux</a>|
