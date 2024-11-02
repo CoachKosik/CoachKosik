@@ -15,11 +15,10 @@ Fueled by a passion for technology and a strong foundation in leadership, I'm tr
 | Use the NIST Cybersecurity Framework to respond to a security incident          | <a href="https://github.com/CoachKosik/Use-the-NIST-Cybersecurity-Framework-to-respond-to-a-security-incident">Applying the NIST CSF</a>|
 | Network Security, Incident Reports, and Risk Assessments          | <a href="https://github.com/CoachKosik/Network-Security-Incident-Reports-and-Risk-Assessments/blob/main/README.md">Cybersecurity Incident Reports and Risk Assessment</a>|
 | Install software in a Linux distribution | <a href="https://github.com/CoachKosik/Software-installation-in-Linux/blob/main/README.md">Software installation in Linux</a>|
-| - Use Linux commands to manage file permissions | <a href="https://github.com/CoachKosik/File-permissions-in-Linux/blob/main/README.md">File permissions in Linux</a>|
 | - Find files with Linux commands         | <a href="https://github.com/CoachKosik/Find-files-with-Linux-commands">Linux commands</a>||
 | - Filter with Linux commands - grep        | <a href="https://github.com/CoachKosik/Filter-with-grep/blob/main/README.md">Filter with grep</a>||
 | - Manage files with Linux commands        | <a href="https://github.com/CoachKosik/Manage-files-with-Linux-commands/blob/main/README.md">Manage files in Linux</a>||
-| - Manage authorization with Linux commands        | <a href="https://github.com/CoachKosik/Manage-files-with-Linux-commands/blob/main/README.md">Manage Authorization in Linux</a>||
+| - Manage authorization with Linux commands        | <a href="https://github.com/CoachKosik/File-permissions-in-Linux/blob/main/README.md">Manage Authorization in Linux</a>||
 | Apply filters to SQL queries         | <a href="https://github.com/CoachKosik/Apply-filters-to-SQL-queries/blob/main/README.md">Apply filters to SQL queries</a>||
 | Analyze a vulnerable system for a small business         | <a href="https://docs.google.com/document/d/1TFZ2W5TqjFtP5lXvbfvb57fcOryTuYr89S5h92ejWQw/edit?usp=sharing">Vulnerability Assessment Report</a>||
 | Identify the attack vectors of a USB drive         | <a href="https://docs.google.com/document/d/1xCJ48OuZ_CU0A5adgc4jkmkW5LQz3hzqdHWgjcTWSHg/edit?usp=sharing">Parking lot USB exercise</a>||
