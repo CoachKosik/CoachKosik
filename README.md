@@ -14,7 +14,7 @@ Fueled by a passion for technology and a strong foundation in leadership, I'm tr
 | Conduct a security audit - Controls & Compliance Checklist          | <a href="https://github.com/CoachKosik/Conduct-a-security-audit/blob/main/README.md">Controls and compliance checklist</a>|
 | Use the NIST Cybersecurity Framework to respond to a security incident          | <a href="https://github.com/CoachKosik/Use-the-NIST-Cybersecurity-Framework-to-respond-to-a-security-incident">Applying the NIST CSF</a>|
 | Network Security, Incident Reports, and Risk Assessments          | <a href="https://github.com/CoachKosik/Network-Security-Incident-Reports-and-Risk-Assessments/blob/main/README.md">Cybersecurity Incident Reports and Risk Assessment</a>|
-| Use Linux commands to manage file permissions | <a href="  * ">File permissions in Linux</a>|
+| Use Linux commands to manage file permissions | <a href="https://github.com/CoachKosik/File-permissions-in-Linux/blob/main/README.md">File permissions in Linux</a>|
 | Install software in a Linux distribution | <a href="https://github.com/CoachKosik/Software-installation-in-Linux/blob/main/README.md">Software installation in Linux</a>|
 | Apply filters to SQL queries         | <a href="https://docs.google.com/document/d/1V-OEULYlPjjr2mrM195Js4D-VeVyfXN_dVfCLoZtSfQ/edit?usp=sharing">Apply filters to SQL queries</a>||
 | Analyze a vulnerable system for a small business         | <a href="https://docs.google.com/document/d/1TFZ2W5TqjFtP5lXvbfvb57fcOryTuYr89S5h92ejWQw/edit?usp=sharing">Vulnerability Assessment Report</a>||
