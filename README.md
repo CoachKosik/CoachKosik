@@ -27,14 +27,14 @@ Fueled by a passion for technology and a strong foundation in leadership, I'm tr
 | - Apply filters to SQL queries         | <a href="https://github.com/CoachKosik/Apply-filters-to-SQL-queries/blob/main/README.md">Apply filters to SQL queries</a>|
 | - Complete a SQL join         | <a href="https://github.com/CoachKosik/Complete-a-SQL-join/blob/main/README.md">Complete a SQL join</a>|
 | Classify the assets connected to a home network         | <a href="https://github.com/CoachKosik/Home-asset-inventory/blob/main/README.md">Home asset inventory</a>|
+| Score risks based on their likelihood and severity         | <a href="https://github.com/CoachKosik/Risk-Register/blob/main/README.md">Risk Register</a>|
+| Determine appropriate data handling practices         | <a href="https://docs.google.com/document/d/1y0MesBW_6yjRF6M3Uuu23VydaBvfLq8TItNfsNAsuMw/edit?usp=sharing">Data leak worksheet</a>|
+| Decrypt a Caesar Cypher encrypted message         | <a href="https://drive.google.com/file/d/1TdchOfAlxzyW4tToIu_GT0ucByrkattM/view?usp=sharing">Decryption</a>|
+| Create hash values         | <a href="https://drive.google.com/file/d/1GFSOVsN06HEJe3wLHZqF2iCJBtgAfhre/view?usp=sharing">Create Hash Values</a>|
+| Improve authentication, authorization, and accounting for a small business         | <a href="https://docs.google.com/document/d/1RkKlWTRO_jXhmYw3lXFSmgcc63ciomdSb2vVxfL7Dzo/edit?usp=sharing">Access controls worksheet</a>|
 | Analyze a vulnerable system for a small business         | <a href="https://github.com/CoachKosik/Vulnerability-Assessment-Report/blob/main/README.md">Vulnerability Assessment Report</a>|
 | Identify the attack vectors of a USB drive         | <a href="https://github.com/CoachKosik/Parking-lot-USB-exercise/blob/main/README.md">Parking lot USB exercise</a>|
 | Conduct a security audit         | <a href="https://docs.google.com/document/d/1mX5zOKhIm6Q8o2sWqSA2BWqL1C-TZLKAPRFX-Iili00/edit?usp=sharing">Controls and compliance checklist</a>|
-| Score risks based on their likelihood and severity         | <a href="https://github.com/CoachKosik/Risk-Register/blob/main/README.md">Risk Register</a>|
-| Decrypt a Caesar Cypher encrypted message         | <a href="https://drive.google.com/file/d/1TdchOfAlxzyW4tToIu_GT0ucByrkattM/view?usp=sharing">Decryption</a>|
-| Create hash values         | <a href="https://drive.google.com/file/d/1GFSOVsN06HEJe3wLHZqF2iCJBtgAfhre/view?usp=sharing">Create Hash Values</a>|
-| Determine appropriate data handling practices         | <a href="https://docs.google.com/document/d/1y0MesBW_6yjRF6M3Uuu23VydaBvfLq8TItNfsNAsuMw/edit?usp=sharing">Data leak worksheet</a>|
-| Improve authentication, authorization, and accounting for a small business         | <a href="https://docs.google.com/document/d/1RkKlWTRO_jXhmYw3lXFSmgcc63ciomdSb2vVxfL7Dzo/edit?usp=sharing">Access controls worksheet</a>|
 | Document incidents with incident handler's journals         | <a href="https://docs.google.com/document/d/1vrN1QgG070_AoVgqCwIShvMiKb8W4WVeHHrRchtRPRs/edit?usp=sharing">Incident handler's journal</a>|
 | Use a playbook to respond to a phishing incident         | <a href="https://docs.google.com/document/d/1axad16ZrozrsNVVQD5nJxk5bzAeIMFvV/edit?usp=sharing&ouid=105064495821226407439&rtpof=true&sd=true">Phishing incident response playbook</a></br>
 | - Phishing incident alert ticket        |<a href="https://docs.google.com/document/d/1IYXkQCagblu4xgnnZcv8N9N7M5bHTBDw/edit?usp=sharing&ouid=105064495821226407439&rtpof=true&sd=true">Alert Ticket</a>|
