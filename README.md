@@ -24,6 +24,7 @@ Fueled by a passion for technology and a strong foundation in leadership, I'm tr
 | Perform a SQL query         | <a href="https://github.com/CoachKosik/Perform-a-SQL-query/blob/main/README.md">SQL query</a>|
 | - Apply filters to SQL queries         | <a href="https://github.com/CoachKosik/Apply-filters-to-SQL-queries/blob/main/README.md">Apply filters to SQL queries</a>|
 | - Apply more filters in SQL         | <a href="https://github.com/CoachKosik/More-SQL-filters/blob/main/README.md">More SQL filters</a>|
+| - Filter SQL with AND, OR, and NOT         | <a href="https://github.com/CoachKosik/Filter-SQL-with-AND-OR-and-NOT/blob/main/README.md">Filter with AND, OR, and NOT</a>|
 | Analyze a vulnerable system for a small business         | <a href="https://docs.google.com/document/d/1TFZ2W5TqjFtP5lXvbfvb57fcOryTuYr89S5h92ejWQw/edit?usp=sharing">Vulnerability Assessment Report</a>|
 | Identify the attack vectors of a USB drive         | <a href="https://docs.google.com/document/d/1xCJ48OuZ_CU0A5adgc4jkmkW5LQz3hzqdHWgjcTWSHg/edit?usp=sharing">Parking lot USB exercise</a>|
 | Classify the assets connected to a home network         | <a href="https://docs.google.com/spreadsheets/d/15AmlnRWmVIluhVt9hN-f8cJ9OxEcTLeBOvlye4IM_Cc/edit?usp=sharing">Home asset inventory</a>|
