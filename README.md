@@ -21,7 +21,9 @@ Fueled by a passion for technology and a strong foundation in leadership, I'm tr
 | - Manage authorization with Linux commands        | <a href="https://github.com/CoachKosik/File-permissions-in-Linux/blob/main/README.md">Manage Authorization in Linux</a>|
 | - Add and manage users with Linux commands       | <a href="https://github.com/CoachKosik/Add-and-manage-users-with-Linux-commands/blob/main/README.md">Manage users in Linux</a>|
 | - Get help in the Linux command line       | <a href="https://github.com/CoachKosik/Get-help-in-the-Linux-command-line/blob/main/README.md">Command line help in Linux</a>|
-| Apply filters to SQL queries         | <a href="https://github.com/CoachKosik/Apply-filters-to-SQL-queries/blob/main/README.md">Apply filters to SQL queries</a>|
+| Perform a SQL query         | <a href="https://github.com/CoachKosik/Perform-a-SQL-query/blob/main/README.md">SQL query</a>|
+| - Apply filters to SQL queries         | <a href="https://github.com/CoachKosik/Apply-filters-to-SQL-queries/blob/main/README.md">Apply filters to SQL queries</a>|
+| - Apply more filters in SQL         | <a href="https://github.com/CoachKosik/Apply-filters-to-SQL-queries/blob/main/README.md">More SQL filters</a>|
 | Analyze a vulnerable system for a small business         | <a href="https://docs.google.com/document/d/1TFZ2W5TqjFtP5lXvbfvb57fcOryTuYr89S5h92ejWQw/edit?usp=sharing">Vulnerability Assessment Report</a>|
 | Identify the attack vectors of a USB drive         | <a href="https://docs.google.com/document/d/1xCJ48OuZ_CU0A5adgc4jkmkW5LQz3hzqdHWgjcTWSHg/edit?usp=sharing">Parking lot USB exercise</a>|
 | Classify the assets connected to a home network         | <a href="https://docs.google.com/spreadsheets/d/15AmlnRWmVIluhVt9hN-f8cJ9OxEcTLeBOvlye4IM_Cc/edit?usp=sharing">Home asset inventory</a>|
