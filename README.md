@@ -26,9 +26,9 @@ Fueled by a passion for technology and a strong foundation in leadership, I'm tr
 | - Filter SQL with AND, OR, and NOT         | <a href="https://github.com/CoachKosik/Filter-SQL-with-AND-OR-and-NOT/blob/main/README.md">Filter with AND, OR, and NOT</a>|
 | - Apply filters to SQL queries         | <a href="https://github.com/CoachKosik/Apply-filters-to-SQL-queries/blob/main/README.md">Apply filters to SQL queries</a>|
 | - Complete a SQL join         | <a href="https://github.com/CoachKosik/Complete-a-SQL-join/blob/main/README.md">Complete a SQL join</a>|
+| Classify the assets connected to a home network         | <a href="https://docs.google.com/spreadsheets/d/15AmlnRWmVIluhVt9hN-f8cJ9OxEcTLeBOvlye4IM_Cc/edit?usp=sharing">Home asset inventory</a>|
 | Analyze a vulnerable system for a small business         | <a href="https://github.com/CoachKosik/Vulnerability-Assessment-Report/blob/main/README.md">Vulnerability Assessment Report</a>|
 | Identify the attack vectors of a USB drive         | <a href="https://github.com/CoachKosik/Parking-lot-USB-exercise/blob/main/README.md">Parking lot USB exercise</a>|
-| Classify the assets connected to a home network         | <a href="https://docs.google.com/spreadsheets/d/15AmlnRWmVIluhVt9hN-f8cJ9OxEcTLeBOvlye4IM_Cc/edit?usp=sharing">Home asset inventory</a>|
 | Conduct a security audit         | <a href="https://docs.google.com/document/d/1mX5zOKhIm6Q8o2sWqSA2BWqL1C-TZLKAPRFX-Iili00/edit?usp=sharing">Controls and compliance checklist</a>|
 | Score risks based on their likelihood and severity         | <a href="https://docs.google.com/document/d/1R7GdZumP7gXRNjD1dOaMuMlB3dD0gRmX/edit?usp=sharing&ouid=105064495821226407439&rtpof=true&sd=true">Risk Register</a>|
 | Decrypt a Caesar Cypher encrypted message         | <a href="https://drive.google.com/file/d/1TdchOfAlxzyW4tToIu_GT0ucByrkattM/view?usp=sharing">Decryption</a>|
