@@ -28,7 +28,7 @@ Fueled by a passion for technology and a strong foundation in leadership, I'm tr
 | - Complete a SQL join         | <a href="https://github.com/CoachKosik/Complete-a-SQL-join/blob/main/README.md">Complete a SQL join</a>|
 | Classify the assets connected to a home network         | <a href="https://github.com/CoachKosik/Home-asset-inventory/blob/main/README.md">Home asset inventory</a>|
 | Score risks based on their likelihood and severity         | <a href="https://github.com/CoachKosik/Risk-Register/blob/main/README.md">Risk Register</a>|
-| Determine appropriate data handling practices         | <a href="https://docs.google.com/document/d/1y0MesBW_6yjRF6M3Uuu23VydaBvfLq8TItNfsNAsuMw/edit?usp=sharing">Data leak worksheet</a>|
+| Determine appropriate data handling practices         | <a href="https://github.com/CoachKosik/Data-leak-worksheet/blob/main/README.md">Data leak worksheet</a>|
 | Decrypt a Caesar Cypher encrypted message         | <a href="https://drive.google.com/file/d/1TdchOfAlxzyW4tToIu_GT0ucByrkattM/view?usp=sharing">Decryption</a>|
 | Create hash values         | <a href="https://drive.google.com/file/d/1GFSOVsN06HEJe3wLHZqF2iCJBtgAfhre/view?usp=sharing">Create Hash Values</a>|
 | Improve authentication, authorization, and accounting for a small business         | <a href="https://docs.google.com/document/d/1RkKlWTRO_jXhmYw3lXFSmgcc63ciomdSb2vVxfL7Dzo/edit?usp=sharing">Access controls worksheet</a>|
