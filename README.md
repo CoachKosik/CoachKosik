@@ -30,7 +30,7 @@ Fueled by a passion for technology and a strong foundation in leadership, I'm tr
 | Analyze a vulnerable system for a small business         | <a href="https://github.com/CoachKosik/Vulnerability-Assessment-Report/blob/main/README.md">Vulnerability Assessment Report</a>|
 | Identify the attack vectors of a USB drive         | <a href="https://github.com/CoachKosik/Parking-lot-USB-exercise/blob/main/README.md">Parking lot USB exercise</a>|
 | Conduct a security audit         | <a href="https://docs.google.com/document/d/1mX5zOKhIm6Q8o2sWqSA2BWqL1C-TZLKAPRFX-Iili00/edit?usp=sharing">Controls and compliance checklist</a>|
-| Score risks based on their likelihood and severity         | <a href="https://docs.google.com/document/d/1R7GdZumP7gXRNjD1dOaMuMlB3dD0gRmX/edit?usp=sharing&ouid=105064495821226407439&rtpof=true&sd=true">Risk Register</a>|
+| Score risks based on their likelihood and severity         | <a href="https://github.com/CoachKosik/Risk-Register/blob/main/README.md">Risk Register</a>|
 | Decrypt a Caesar Cypher encrypted message         | <a href="https://drive.google.com/file/d/1TdchOfAlxzyW4tToIu_GT0ucByrkattM/view?usp=sharing">Decryption</a>|
 | Create hash values         | <a href="https://drive.google.com/file/d/1GFSOVsN06HEJe3wLHZqF2iCJBtgAfhre/view?usp=sharing">Create Hash Values</a>|
 | Determine appropriate data handling practices         | <a href="https://docs.google.com/document/d/1y0MesBW_6yjRF6M3Uuu23VydaBvfLq8TItNfsNAsuMw/edit?usp=sharing">Data leak worksheet</a>|
