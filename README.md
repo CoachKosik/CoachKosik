@@ -9,41 +9,43 @@ Fueled by a passion for technology and a strong foundation in leadership, I'm tr
 
 # Projects and Labs
 
-### Managing Security Risks
-| **SKills Learned**                                | **Associated Project or Lab**    |
-|-----------------------------------------------|----------------------------------|
-| Conduct a security audit - Controls & Compliance Checklist    |<a href="https://github.com/CoachKosik/Conduct-a-security-audit/blob/main/README.md">Controls and compliance checklist</a>|
+| **Skills Learned**                                | **Associated Project or Lab**    |
+|:-----------------------------------------------|----------------------------------|
+|**MANAGING SECURITY RISKS**        ||
+| <p><ul><li>Conduct a security audit - Controls & Compliance Checklist</li></ul>    |<a href="https://github.com/CoachKosik/Conduct-a-security-audit/blob/main/README.md">Controls and compliance checklist</a>|
+|<br>||
+|**Networks and Network Security**    ||
+|<p><ul><li>Use the NIST Cybersecurity Framework to respond to a security incident    |<a href="https://github.com/CoachKosik/Use-the-NIST-Cybersecurity-Framework-to-respond-to-a-security-incident">Applying the NIST CSF</a>
+|<p><ul><li>Network Security, Incident Reports, and Risk Assessments    |<a href="https://github.com/CoachKosik/Network-Security-Incident-Reports-and-Risk-Assessments/blob/main/README.md">Cybersecurity Incident Reports and Risk Assessment</a>    |
+|<br>||
+|**Tools of the Trade: Linux**    ||
+|<p><ul><li>Install software in a Linux distribution    |<a href="https://github.com/CoachKosik/Software-installation-in-Linux/blob/main/README.md">Software installation in Linux</a>|
+|<p><ul><li>Find files with Linux commands    |<a href="https://github.com/CoachKosik/Find-files-with-Linux-commands">Linux commands</a>    |
+| <p><ul><li>Filter with Linux commands - grep    |<a href="https://github.com/CoachKosik/Filter-with-grep/blob/main/README.md">Filter with grep</a>    |
+| <p><ul><li>Manage files with Linux commands    |<a href="https://github.com/CoachKosik/Manage-files-with-Linux-commands/blob/main/README.md">Manage files in Linux</a>    |
+| <p><ul><li>Manage authorization with Linux commands    |<a href="https://github.com/CoachKosik/File-permissions-in-Linux/blob/main/README.md">Manage Authorization in Linux</a>|
+| <p><ul><li>Add and manage users with Linux commands    |<a href="https://github.com/CoachKosik/Add-and-manage-users-with-Linux-commands/blob/main/README.md">Manage users in Linux</a>|
+| <p><ul><li>Get help in the Linux command line    |<a href="https://github.com/CoachKosik/Get-help-in-the-Linux-command-line/blob/main/README.md">Command line help in Linux</a>  |
+|<br>||
+|**Tools of the Trade: SQL**    ||
+|<p><ul><li>Perform a SQL query    |<a href="https://github.com/CoachKosik/Perform-a-SQL-query/blob/main/README.md">SQL query</a>    |
+|<p><ul><li>Apply more filters in SQL    |<a href="https://github.com/CoachKosik/More-SQL-filters/blob/main/README.md">More SQL filters</a>    |
+|<p><ul><li>Filter SQL with AND, OR, and NOT    |<a href="https://github.com/CoachKosik/Filter-SQL-with-AND-OR-and-NOT/blob/main/README.md">Filter with AND, OR, and NOT</a>    |
+|<p><ul><li>Apply filters to SQL queries    |<a href="https://github.com/CoachKosik/Apply-filters-to-SQL-queries/blob/main/README.md">Apply filters to SQL queries</a>    |
+|<p><ul><li>Complete a SQL join    |<a href="https://github.com/CoachKosik/Complete-a-SQL-join/blob/main/README.md">Complete a SQL join</a>    |
+|<br>||
+|**Assets, Threats, and Vulnerabilities**    ||
+| <p><ul><li>Classify the assets connected to a home network         | <a href="https://github.com/CoachKosik/Home-asset-inventory/blob/main/README.md">Home asset inventory</a>|
+| Score risks based on their likelihood and severity         | <a href="https://github.com/CoachKosik/Risk-Register/blob/main/README.md">Risk Register</a>|
+| Determine appropriate data handling practices         | <a href="https://github.com/CoachKosik/Data-leak-worksheet/blob/main/README.md">Data leak worksheet</a>|
+| Decrypt a Caesar Cypher encrypted message         | <a href="https://drive.google.com/file/d/1TdchOfAlxzyW4tToIu_GT0ucByrkattM/view?usp=sharing">Decryption***</a>|
+| Create hash values         | <a href="https://drive.google.com/file/d/1GFSOVsN06HEJe3wLHZqF2iCJBtgAfhre/view?usp=sharing">Create Hash Values</a>|
+| Improve Authentication, Authorization, and Accounting (AAA) for a small business         | <a href="https://docs.google.com/document/d/1RkKlWTRO_jXhmYw3lXFSmgcc63ciomdSb2vVxfL7Dzo/edit?usp=sharing">Access controls worksheet</a>|
+| Analyze a vulnerable system for a small business         | <a href="https://github.com/CoachKosik/Vulnerability-Assessment-Report/blob/main/README.md">Vulnerability Assessment Report</a>|
+| Identify the attack vectors of a USB drive         | <a href="https://github.com/CoachKosik/Parking-lot-USB-exercise/blob/main/README.md">Parking lot USB exercise</a>|
+| Filter malicious emails                |<a href="https://github.com/CoachKosik/Email-Filter/blob/main/README.md">Malicious email filter</a>
 
-### Networks and Network Security
-| **SKills Learned**                                | **Associated Project or Lab**    |
-|-----------------------------------------------|----------------------------------|
-|Use the NIST Cybersecurity Framework to respond to a security incident    |<a href="https://github.com/CoachKosik/Use-the-NIST-Cybersecurity-Framework-to-respond-to-a-security-incident">Applying the NIST CSF</a>    |
-| Network Security, Incident Reports, and Risk Assessments    |<a href="https://github.com/CoachKosik/Network-Security-Incident-Reports-and-Risk-Assessments/blob/main/README.md">Cybersecurity Incident Reports and Risk Assessment</a>    |
 
-### Tools of the Trade: Linux
-| **SKills Learned**                                | **Associated Project or Lab**    |
-|-----------------------------------------------|----------------------------------|
-|Install software in a Linux distribution    |<a href="https://github.com/CoachKosik/Software-installation-in-Linux/blob/main/README.md">Software installation in Linux</a>|
-| Find files with Linux commands    |<a href="https://github.com/CoachKosik/Find-files-with-Linux-commands">Linux commands</a>    |
-| Filter with Linux commands - grep    |<a href="https://github.com/CoachKosik/Filter-with-grep/blob/main/README.md">Filter with grep</a>    |
-| Manage files with Linux commands    |<a href="https://github.com/CoachKosik/Manage-files-with-Linux-commands/blob/main/README.md">Manage files in Linux</a>    |
-| Manage authorization with Linux commands    |<a href="https://github.com/CoachKosik/File-permissions-in-Linux/blob/main/README.md">Manage Authorization in Linux</a>|
-| Add and manage users with Linux commands    |<a href="https://github.com/CoachKosik/Add-and-manage-users-with-Linux-commands/blob/main/README.md">Manage users in Linux</a>|
-| Get help in the Linux command line    |<a href="https://github.com/CoachKosik/Get-help-in-the-Linux-command-line/blob/main/README.md">Command line help in Linux</a>  |
-
-### Tools of the Trade: SQL
-| **SKills Learned**                                | **Associated Project or Lab**    |
-|-----------------------------------------------|----------------------------------|
-|Perform a SQL query    |<a href="https://github.com/CoachKosik/Perform-a-SQL-query/blob/main/README.md">SQL query</a>    |
-|Apply more filters in SQL    |<a href="https://github.com/CoachKosik/More-SQL-filters/blob/main/README.md">More SQL filters</a>    |
-|Filter SQL with AND, OR, and NOT    |<a href="https://github.com/CoachKosik/Filter-SQL-with-AND-OR-and-NOT/blob/main/README.md">Filter with AND, OR, and NOT</a>    |
-|Apply filters to SQL queries    |<a href="https://github.com/CoachKosik/Apply-filters-to-SQL-queries/blob/main/README.md">Apply filters to SQL queries</a>    |
-|Complete a SQL join    |<a href="https://github.com/CoachKosik/Complete-a-SQL-join/blob/main/README.md">Complete a SQL join</a>    |
-
-### Assets, Threats, and Vulnerabilities
-| **SKills Learned**                                | **Associated Project or Lab**    |
-|-----------------------------------------------|----------------------------------|
-| Classify the assets connected to a home network         | <a href="https://github.com/CoachKosik/Home-asset-inventory/blob/main/README.md">Home asset inventory</a>|
 
 
 
@@ -51,13 +53,6 @@ Fueled by a passion for technology and a strong foundation in leadership, I'm tr
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 
-
-| Score risks based on their likelihood and severity         | <a href="https://github.com/CoachKosik/Risk-Register/blob/main/README.md">Risk Register</a>|
-| Determine appropriate data handling practices         | <a href="https://github.com/CoachKosik/Data-leak-worksheet/blob/main/README.md">Data leak worksheet</a>|
-| Decrypt a Caesar Cypher encrypted message         | <a href="https://drive.google.com/file/d/1TdchOfAlxzyW4tToIu_GT0ucByrkattM/view?usp=sharing">Decryption</a>|
-| Create hash values         | <a href="https://drive.google.com/file/d/1GFSOVsN06HEJe3wLHZqF2iCJBtgAfhre/view?usp=sharing">Create Hash Values</a>|
-| Improve authentication, authorization, and accounting for a small business         | <a href="https://docs.google.com/document/d/1RkKlWTRO_jXhmYw3lXFSmgcc63ciomdSb2vVxfL7Dzo/edit?usp=sharing">Access controls worksheet</a>|
-| Analyze a vulnerable system for a small business         | <a href="https://github.com/CoachKosik/Vulnerability-Assessment-Report/blob/main/README.md">Vulnerability Assessment Report</a>|
 | Identify the attack vectors of a USB drive         | <a href="https://github.com/CoachKosik/Parking-lot-USB-exercise/blob/main/README.md">Parking lot USB exercise</a>|
 | Conduct a security audit         | <a href="https://docs.google.com/document/d/1mX5zOKhIm6Q8o2sWqSA2BWqL1C-TZLKAPRFX-Iili00/edit?usp=sharing">Controls and compliance checklist</a>|
 | Document incidents with incident handler's journals         | <a href="https://docs.google.com/document/d/1vrN1QgG070_AoVgqCwIShvMiKb8W4WVeHHrRchtRPRs/edit?usp=sharing">Incident handler's journal</a>|
