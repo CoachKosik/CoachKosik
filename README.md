@@ -7,26 +7,51 @@ Recently changing careers in high level leadership and management at the college
 
 Fueled by a passion for technology and a strong foundation in leadership, I'm transitioning into cybersecurity.  My recent Google Cybersecurity and AI Essentials certifications, coupled with my ongoing pursuit of the CompTIA Security+, demonstrate my commitment to this field.  My ultimate goal is to specialize in Identity and Access Management (IAM), leveraging my analytical and problem-solving skills to safeguard critical systems.
 
-## Skills
+# Projects and Labs
+
+### Managing Security Risks
+| **SKills Learned**                                | **Associated Project or Lab**    |
+|-----------------------------------------------|----------------------------------|
+| Conduct a security audit - Controls & Compliance Checklist    |<a href="https://github.com/CoachKosik/Conduct-a-security-audit/blob/main/README.md">Controls and compliance checklist</a>|
+
+### Networks and Network Security
+| **SKills Learned**                                | **Associated Project or Lab**    |
+|-----------------------------------------------|----------------------------------|
+|Use the NIST Cybersecurity Framework to respond to a security incident    |<a href="https://github.com/CoachKosik/Use-the-NIST-Cybersecurity-Framework-to-respond-to-a-security-incident">Applying the NIST CSF</a>    |
+| Network Security, Incident Reports, and Risk Assessments    |<a href="https://github.com/CoachKosik/Network-Security-Incident-Reports-and-Risk-Assessments/blob/main/README.md">Cybersecurity Incident Reports and Risk Assessment</a>    |
+
+### Tools of the Trade: Linux
+| **SKills Learned**                                | **Associated Project or Lab**    |
+|-----------------------------------------------|----------------------------------|
+|Install software in a Linux distribution    |<a href="https://github.com/CoachKosik/Software-installation-in-Linux/blob/main/README.md">Software installation in Linux</a>|
+| Find files with Linux commands    |<a href="https://github.com/CoachKosik/Find-files-with-Linux-commands">Linux commands</a>    |
+| Filter with Linux commands - grep    |<a href="https://github.com/CoachKosik/Filter-with-grep/blob/main/README.md">Filter with grep</a>    |
+| Manage files with Linux commands    |<a href="https://github.com/CoachKosik/Manage-files-with-Linux-commands/blob/main/README.md">Manage files in Linux</a>    |
+| Manage authorization with Linux commands    |<a href="https://github.com/CoachKosik/File-permissions-in-Linux/blob/main/README.md">Manage Authorization in Linux</a>|
+| Add and manage users with Linux commands    |<a href="https://github.com/CoachKosik/Add-and-manage-users-with-Linux-commands/blob/main/README.md">Manage users in Linux</a>|
+| Get help in the Linux command line    |<a href="https://github.com/CoachKosik/Get-help-in-the-Linux-command-line/blob/main/README.md">Command line help in Linux</a>  |
+
+### Tools of the Trade: SQL
+| **SKills Learned**                                | **Associated Project or Lab**    |
+|-----------------------------------------------|----------------------------------|
+|Perform a SQL query    |<a href="https://github.com/CoachKosik/Perform-a-SQL-query/blob/main/README.md">SQL query</a>    |
+|Apply more filters in SQL    |<a href="https://github.com/CoachKosik/More-SQL-filters/blob/main/README.md">More SQL filters</a>    |
+|Filter SQL with AND, OR, and NOT    |<a href="https://github.com/CoachKosik/Filter-SQL-with-AND-OR-and-NOT/blob/main/README.md">Filter with AND, OR, and NOT</a>    |
+|Apply filters to SQL queries    |<a href="https://github.com/CoachKosik/Apply-filters-to-SQL-queries/blob/main/README.md">Apply filters to SQL queries</a>    |
+|Complete a SQL join    |<a href="https://github.com/CoachKosik/Complete-a-SQL-join/blob/main/README.md">Complete a SQL join</a>    |
+
+### Assets, Threats, and Vulnerabilities
+| **SKills Learned**                                | **Associated Project or Lab**    |
+|-----------------------------------------------|----------------------------------|
+| Classify the assets connected to a home network         | <a href="https://github.com/CoachKosik/Home-asset-inventory/blob/main/README.md">Home asset inventory</a>|
+
+
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Conduct a security audit - Controls & Compliance Checklist          | <a href="https://github.com/CoachKosik/Conduct-a-security-audit/blob/main/README.md">Controls and compliance checklist</a>|
-| Use the NIST Cybersecurity Framework to respond to a security incident          | <a href="https://github.com/CoachKosik/Use-the-NIST-Cybersecurity-Framework-to-respond-to-a-security-incident">Applying the NIST CSF</a>|
-| Network Security, Incident Reports, and Risk Assessments          | <a href="https://github.com/CoachKosik/Network-Security-Incident-Reports-and-Risk-Assessments/blob/main/README.md">Cybersecurity Incident Reports and Risk Assessment</a>|
-| Install software in a Linux distribution | <a href="https://github.com/CoachKosik/Software-installation-in-Linux/blob/main/README.md">Software installation in Linux</a>|
-| - Find files with Linux commands         | <a href="https://github.com/CoachKosik/Find-files-with-Linux-commands">Linux commands</a>|
-| - Filter with Linux commands - grep        | <a href="https://github.com/CoachKosik/Filter-with-grep/blob/main/README.md">Filter with grep</a>|
-| - Manage files with Linux commands        | <a href="https://github.com/CoachKosik/Manage-files-with-Linux-commands/blob/main/README.md">Manage files in Linux</a>|
-| - Manage authorization with Linux commands        | <a href="https://github.com/CoachKosik/File-permissions-in-Linux/blob/main/README.md">Manage Authorization in Linux</a>|
-| - Add and manage users with Linux commands       | <a href="https://github.com/CoachKosik/Add-and-manage-users-with-Linux-commands/blob/main/README.md">Manage users in Linux</a>|
-| - Get help in the Linux command line       | <a href="https://github.com/CoachKosik/Get-help-in-the-Linux-command-line/blob/main/README.md">Command line help in Linux</a>|
-| Perform a SQL query         | <a href="https://github.com/CoachKosik/Perform-a-SQL-query/blob/main/README.md">SQL query</a>|
-| - Apply more filters in SQL         | <a href="https://github.com/CoachKosik/More-SQL-filters/blob/main/README.md">More SQL filters</a>|
-| - Filter SQL with AND, OR, and NOT         | <a href="https://github.com/CoachKosik/Filter-SQL-with-AND-OR-and-NOT/blob/main/README.md">Filter with AND, OR, and NOT</a>|
-| - Apply filters to SQL queries         | <a href="https://github.com/CoachKosik/Apply-filters-to-SQL-queries/blob/main/README.md">Apply filters to SQL queries</a>|
-| - Complete a SQL join         | <a href="https://github.com/CoachKosik/Complete-a-SQL-join/blob/main/README.md">Complete a SQL join</a>|
-| Classify the assets connected to a home network         | <a href="https://github.com/CoachKosik/Home-asset-inventory/blob/main/README.md">Home asset inventory</a>|
+
+
 | Score risks based on their likelihood and severity         | <a href="https://github.com/CoachKosik/Risk-Register/blob/main/README.md">Risk Register</a>|
 | Determine appropriate data handling practices         | <a href="https://github.com/CoachKosik/Data-leak-worksheet/blob/main/README.md">Data leak worksheet</a>|
 | Decrypt a Caesar Cypher encrypted message         | <a href="https://drive.google.com/file/d/1TdchOfAlxzyW4tToIu_GT0ucByrkattM/view?usp=sharing">Decryption</a>|
