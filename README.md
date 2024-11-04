@@ -36,14 +36,15 @@ Fueled by a passion for technology and a strong foundation in leadership, I'm tr
 |<br>||
 |**Assets, Threats, and Vulnerabilities**    ||
 | <p><ul><li>Classify the assets connected to a home network         | <a href="https://github.com/CoachKosik/Home-asset-inventory/blob/main/README.md">Home asset inventory</a>|
-| Score risks based on their likelihood and severity         | <a href="https://github.com/CoachKosik/Risk-Register/blob/main/README.md">Risk Register</a>|
-| Determine appropriate data handling practices         | <a href="https://github.com/CoachKosik/Data-leak-worksheet/blob/main/README.md">Data leak worksheet</a>|
-| Decrypt a Caesar Cypher encrypted message         | <a href="https://drive.google.com/file/d/1TdchOfAlxzyW4tToIu_GT0ucByrkattM/view?usp=sharing">Decryption***</a>|
-| Create hash values         | <a href="https://drive.google.com/file/d/1GFSOVsN06HEJe3wLHZqF2iCJBtgAfhre/view?usp=sharing">Create Hash Values</a>|
-| Improve Authentication, Authorization, and Accounting (AAA) for a small business         | <a href="https://docs.google.com/document/d/1RkKlWTRO_jXhmYw3lXFSmgcc63ciomdSb2vVxfL7Dzo/edit?usp=sharing">Access controls worksheet</a>|
-| Analyze a vulnerable system for a small business         | <a href="https://github.com/CoachKosik/Vulnerability-Assessment-Report/blob/main/README.md">Vulnerability Assessment Report</a>|
-| Identify the attack vectors of a USB drive         | <a href="https://github.com/CoachKosik/Parking-lot-USB-exercise/blob/main/README.md">Parking lot USB exercise</a>|
-| Filter malicious emails                |<a href="https://github.com/CoachKosik/Email-Filter/blob/main/README.md">Malicious email filter</a>
+|<p><ul><li>Score risks based on their likelihood and severity         | <a href="https://github.com/CoachKosik/Risk-Register/blob/main/README.md">Risk Register</a>|
+| <p><ul><li>Determine appropriate data handling practices         | <a href="https://github.com/CoachKosik/Data-leak-worksheet/blob/main/README.md">Data leak worksheet</a>|
+| <p><ul><li>Decrypt a Caesar Cypher encrypted message         | <a href="https://drive.google.com/file/d/1TdchOfAlxzyW4tToIu_GT0ucByrkattM/view?usp=sharing">Decryption</a>|
+| <p><ul><li>Create hash values         | <a href="https://drive.google.com/file/d/1GFSOVsN06HEJe3wLHZqF2iCJBtgAfhre/view?usp=sharing">Create Hash Values</a>|
+| <p><ul><li>Improve Authentication, Authorization, and Accounting (AAA) for a small business         | <a href="https://docs.google.com/document/d/1RkKlWTRO_jXhmYw3lXFSmgcc63ciomdSb2vVxfL7Dzo/edit?usp=sharing">Access controls worksheet</a>|
+| <p><ul><li>Analyze a vulnerable system for a small business         | <a href="https://github.com/CoachKosik/Vulnerability-Assessment-Report/blob/main/README.md">Vulnerability Assessment Report</a>|
+| <p><ul><li>Identify the attack vectors of a USB drive         | <a href="https://github.com/CoachKosik/Parking-lot-USB-exercise/blob/main/README.md">Parking lot USB exercise</a>|
+| <p><ul><li>Filter malicious emails                |<a href="https://github.com/CoachKosik/Email-Filter/blob/main/README.md">Malicious email filter</a>    |
+| <p><ul><li>Apply the PASTA threat model framework        |<a href="https://github.com/CoachKosik/PASTA-Lab/blob/main/README.md">PASTA framework    |
 
 
 
@@ -53,7 +54,7 @@ Fueled by a passion for technology and a strong foundation in leadership, I'm tr
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 
-| Identify the attack vectors of a USB drive         | <a href="https://github.com/CoachKosik/Parking-lot-USB-exercise/blob/main/README.md">Parking lot USB exercise</a>|
+
 | Conduct a security audit         | <a href="https://docs.google.com/document/d/1mX5zOKhIm6Q8o2sWqSA2BWqL1C-TZLKAPRFX-Iili00/edit?usp=sharing">Controls and compliance checklist</a>|
 | Document incidents with incident handler's journals         | <a href="https://docs.google.com/document/d/1vrN1QgG070_AoVgqCwIShvMiKb8W4WVeHHrRchtRPRs/edit?usp=sharing">Incident handler's journal</a>|
 | Use a playbook to respond to a phishing incident         | <a href="https://docs.google.com/document/d/1axad16ZrozrsNVVQD5nJxk5bzAeIMFvV/edit?usp=sharing&ouid=105064495821226407439&rtpof=true&sd=true">Phishing incident response playbook</a></br>
