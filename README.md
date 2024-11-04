@@ -45,9 +45,10 @@ Fueled by a passion for technology and a strong foundation in leadership, I'm tr
 | <p><ul><li>Identify the attack vectors of a USB drive         | <a href="https://github.com/CoachKosik/Parking-lot-USB-exercise/blob/main/README.md">Parking lot USB exercise</a>|
 | <p><ul><li>Filter malicious emails                |<a href="https://github.com/CoachKosik/Email-Filter/blob/main/README.md">Malicious email filter</a>    |
 | <p><ul><li>Apply the PASTA threat model framework        |<a href="https://github.com/CoachKosik/PASTA-Lab/blob/main/README.md">PASTA framework    |
-
-
-
+|<br>||
+|**Detection and Response**    ||
+| Document incidents with incident handler's journals         | <a href="https://docs.google.com/document/d/1vrN1QgG070_AoVgqCwIShvMiKb8W4WVeHHrRchtRPRs/edit?usp=sharing">Incident handler's journal</a>|
+| Analyzing packets with Wireshark on a VM         | <a href="https://docs.google.com/document/d/1Xg_i8XqLCSrpxMfahVL8_KslsRO_mM9vUwRRkhm1gtQ/edit?usp=sharing">Analyze packets with Wireshark</a>|
 
 
 
@@ -55,8 +56,6 @@ Fueled by a passion for technology and a strong foundation in leadership, I'm tr
 |-----------------------------------------------|----------------------------|
 
 
-| Conduct a security audit         | <a href="https://docs.google.com/document/d/1mX5zOKhIm6Q8o2sWqSA2BWqL1C-TZLKAPRFX-Iili00/edit?usp=sharing">Controls and compliance checklist</a>|
-| Document incidents with incident handler's journals         | <a href="https://docs.google.com/document/d/1vrN1QgG070_AoVgqCwIShvMiKb8W4WVeHHrRchtRPRs/edit?usp=sharing">Incident handler's journal</a>|
 | Use a playbook to respond to a phishing incident         | <a href="https://docs.google.com/document/d/1axad16ZrozrsNVVQD5nJxk5bzAeIMFvV/edit?usp=sharing&ouid=105064495821226407439&rtpof=true&sd=true">Phishing incident response playbook</a></br>
 | - Phishing incident alert ticket        |<a href="https://docs.google.com/document/d/1IYXkQCagblu4xgnnZcv8N9N7M5bHTBDw/edit?usp=sharing&ouid=105064495821226407439&rtpof=true&sd=true">Alert Ticket</a>|
 | - Final Report        |<a href="https://docs.google.com/document/d/1JO4hwoSmnkoaNwuMCZGoesPEbFtBLj9X/edit?usp=sharing&ouid=105064495821226407439&rtpof=true&sd=true">Final Report</a>|
