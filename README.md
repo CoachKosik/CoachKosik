@@ -47,8 +47,11 @@ Fueled by a passion for technology and a strong foundation in leadership, I'm tr
 | <p><ul><li>Apply the PASTA threat model framework        |<a href="https://github.com/CoachKosik/PASTA-Lab/blob/main/README.md">PASTA framework    |
 |<br>||
 |**Detection and Response**    ||
-| Document incidents with incident handler's journals         | <a href="https://docs.google.com/document/d/1vrN1QgG070_AoVgqCwIShvMiKb8W4WVeHHrRchtRPRs/edit?usp=sharing">Incident handler's journal</a>|
-| Analyzing packets with Wireshark on a VM         | <a href="https://docs.google.com/document/d/1Xg_i8XqLCSrpxMfahVL8_KslsRO_mM9vUwRRkhm1gtQ/edit?usp=sharing">Analyze packets with Wireshark</a>|
+|<p><ul><li>Document incidents with incident handler's journals         | <a href="https://docs.google.com/document/d/1vrN1QgG070_AoVgqCwIShvMiKb8W4WVeHHrRchtRPRs/edit?usp=sharing">Incident handler's journal</a>|
+|<p><ul><li>Analyzing packets with Wireshark on a VM         | <a href="https://github.com/CoachKosik/Wireshark-Packet-Analysis/blob/main/README.md">Analyze packets with Wireshark</a>|
+|<p><ul><li>Using tcpdump to capture and analyze live network traffic from a Linux VM         | <a href="https://docs.google.com/document/d/19LuZZPAfnzdTfb5fVCVyPVQZq4epbQRdiAUbVnINNsY/edit?usp=sharing">Packet Capture </a>|
+
+
 
 
 
@@ -60,7 +63,7 @@ Fueled by a passion for technology and a strong foundation in leadership, I'm tr
 | - Phishing incident alert ticket        |<a href="https://docs.google.com/document/d/1IYXkQCagblu4xgnnZcv8N9N7M5bHTBDw/edit?usp=sharing&ouid=105064495821226407439&rtpof=true&sd=true">Alert Ticket</a>|
 | - Final Report        |<a href="https://docs.google.com/document/d/1JO4hwoSmnkoaNwuMCZGoesPEbFtBLj9X/edit?usp=sharing&ouid=105064495821226407439&rtpof=true&sd=true">Final Report</a>|
 | Analyzing packets with Wireshark on a VM         | <a href="https://docs.google.com/document/d/1Xg_i8XqLCSrpxMfahVL8_KslsRO_mM9vUwRRkhm1gtQ/edit?usp=sharing">Analyze packets with Wireshark</a>|
-| Using tcpdump to capture and analyze live network traffic from a Linux VM         | <a href="https://docs.google.com/document/d/19LuZZPAfnzdTfb5fVCVyPVQZq4epbQRdiAUbVnINNsY/edit?usp=sharing">Packet Capture </a>|
+
 | Using tcpdump to capture and analyze live network traffic from a Linux VM         | <a href="https://docs.google.com/document/d/1IYXkQCagblu4xgnnZcv8N9N7M5bHTBDw/edit?usp=sharing&ouid=105064495821226407439&rtpof=true&sd=true">Alert Ticket</a>|
 | Explore signatures and logs with Suricata         | <a href="https://docs.google.com/document/d/19KQYlErtPr1cEafaGvayZHiPUFlm38syanW5TG3oLU4/edit?usp=sharing">Suricata Lab</a>|
 | Splunk Intro: Perform a query with Splunk         | <a href="https://docs.google.com/document/d/1X0kBj6JbtXLd8ezKrDn7wG-Amvt45oRDcr9JEW0IP3A/edit?usp=sharing">Splunk Lab</a>|
