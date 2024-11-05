@@ -50,7 +50,7 @@ Fueled by a passion for technology and a strong foundation in leadership, I'm tr
 |<p><ul><li>Document incidents with incident handler's journals         | <a href="https://docs.google.com/document/d/1vrN1QgG070_AoVgqCwIShvMiKb8W4WVeHHrRchtRPRs/edit?usp=sharing">Incident handler's journal</a>|
 |<p><ul><li>Analyzing packets with Wireshark on a VM         | <a href="https://github.com/CoachKosik/Wireshark-Packet-Analysis/blob/main/README.md">Analyze packets with Wireshark</a>|
 |<p><ul><li>Using tcpdump to capture and analyze live network traffic from a Linux VM         | <a href="https://github.com/CoachKosik/Packet-Capture/blob/main/README.md">Packet Capture </a>|
-
+|<p><ul><li>Research and compare network protocol analyzers    | Compare Network Protocol Analyzers
 
 
 
