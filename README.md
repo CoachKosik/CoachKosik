@@ -14,11 +14,11 @@ Fueled by a passion for technology and a strong foundation in leadership, I'm tr
 |**MANAGING SECURITY RISKS**        ||
 | <p><ul><li>Conduct a security audit - Controls & Compliance Checklist</li></ul>    |<a href="https://github.com/CoachKosik/Conduct-a-security-audit/blob/main/README.md">Controls and compliance checklist</a>|
 |<br>||
-|**Networks and Network Security**    ||
+|**NETWORKS AND NETWORK SECURITY**    ||
 |<p><ul><li>Use the NIST Cybersecurity Framework to respond to a security incident    |<a href="https://github.com/CoachKosik/Use-the-NIST-Cybersecurity-Framework-to-respond-to-a-security-incident">Applying the NIST CSF</a>
 |<p><ul><li>Network Security, Incident Reports, and Risk Assessments    |<a href="https://github.com/CoachKosik/Network-Security-Incident-Reports-and-Risk-Assessments/blob/main/README.md">Cybersecurity Incident Reports and Risk Assessment</a>    |
 |<br>||
-|**Tools of the Trade: Linux**    ||
+|**TOOLS OF THE TRADE: LINUX**    ||
 |<p><ul><li>Install software in a Linux distribution    |<a href="https://github.com/CoachKosik/Software-installation-in-Linux/blob/main/README.md">Software installation in Linux</a>|
 |<p><ul><li>Find files with Linux commands    |<a href="https://github.com/CoachKosik/Find-files-with-Linux-commands">Linux commands</a>    |
 | <p><ul><li>Filter with Linux commands - grep    |<a href="https://github.com/CoachKosik/Filter-with-grep/blob/main/README.md">Filter with grep</a>    |
@@ -27,14 +27,14 @@ Fueled by a passion for technology and a strong foundation in leadership, I'm tr
 | <p><ul><li>Add and manage users with Linux commands    |<a href="https://github.com/CoachKosik/Add-and-manage-users-with-Linux-commands/blob/main/README.md">Manage users in Linux</a>|
 | <p><ul><li>Get help in the Linux command line    |<a href="https://github.com/CoachKosik/Get-help-in-the-Linux-command-line/blob/main/README.md">Command line help in Linux</a>  |
 |<br>||
-|**Tools of the Trade: SQL**    ||
+|**TOOLS OF THE TRADE: SQL**    ||
 |<p><ul><li>Perform a SQL query    |<a href="https://github.com/CoachKosik/Perform-a-SQL-query/blob/main/README.md">SQL query</a>    |
 |<p><ul><li>Apply more filters in SQL    |<a href="https://github.com/CoachKosik/More-SQL-filters/blob/main/README.md">More SQL filters</a>    |
 |<p><ul><li>Filter SQL with AND, OR, and NOT    |<a href="https://github.com/CoachKosik/Filter-SQL-with-AND-OR-and-NOT/blob/main/README.md">Filter with AND, OR, and NOT</a>    |
 |<p><ul><li>Apply filters to SQL queries    |<a href="https://github.com/CoachKosik/Apply-filters-to-SQL-queries/blob/main/README.md">Apply filters to SQL queries</a>    |
 |<p><ul><li>Complete a SQL join    |<a href="https://github.com/CoachKosik/Complete-a-SQL-join/blob/main/README.md">Complete a SQL join</a>    |
 |<br>||
-|**Assets, Threats, and Vulnerabilities**    ||
+|**ASSETS, THREATS, AND VULNERABILITIES**    ||
 | <p><ul><li>Classify the assets connected to a home network         | <a href="https://github.com/CoachKosik/Home-asset-inventory/blob/main/README.md">Home asset inventory</a>|
 |<p><ul><li>Score risks based on their likelihood and severity         | <a href="https://github.com/CoachKosik/Risk-Register/blob/main/README.md">Risk Register</a>|
 | <p><ul><li>Determine appropriate data handling practices         | <a href="https://github.com/CoachKosik/Data-leak-worksheet/blob/main/README.md">Data leak worksheet</a>|
@@ -46,11 +46,12 @@ Fueled by a passion for technology and a strong foundation in leadership, I'm tr
 | <p><ul><li>Filter malicious emails                |<a href="https://github.com/CoachKosik/Email-Filter/blob/main/README.md">Malicious email filter</a>    |
 | <p><ul><li>Apply the PASTA threat model framework        |<a href="https://github.com/CoachKosik/PASTA-Lab/blob/main/README.md">PASTA framework    |
 |<br>||
-|**Detection and Response**    ||
+|**DETECTION AND RESPONSE**    ||
 |<p><ul><li>Document incidents with incident handler's journals         | <a href="https://docs.google.com/document/d/1vrN1QgG070_AoVgqCwIShvMiKb8W4WVeHHrRchtRPRs/edit?usp=sharing">Incident handler's journal</a>|
 |<p><ul><li>Analyzing packets with Wireshark on a VM         | <a href="https://github.com/CoachKosik/Wireshark-Packet-Analysis/blob/main/README.md">Analyze packets with Wireshark</a>|
 |<p><ul><li>Using tcpdump to capture and analyze live network traffic from a Linux VM         | <a href="https://github.com/CoachKosik/Packet-Capture/blob/main/README.md">Packet Capture </a>|
 |<p><ul><li>Research and compare packet sniffers    | <a href="[https://github.com/CoachKosik/Packet-Capture/blob/main/README.md](https://github.com/CoachKosik/Wireshark-Vs.-tcpdump/blob/main/README.md)">Wireshark Vs. tcpdump</a>|
+|<p><ul><li>Investigate a suspicious file hash    | <a href="[https://github.com/CoachKosik/Packet-Capture/blob/main/README.md](https://github.com/CoachKosik/Wireshark-Vs.-tcpdump/blob/main/README.md)">Wireshark Vs. tcpdump</a>|
 
 
 
@@ -62,7 +63,6 @@ Fueled by a passion for technology and a strong foundation in leadership, I'm tr
 | Use a playbook to respond to a phishing incident         | <a href="https://docs.google.com/document/d/1axad16ZrozrsNVVQD5nJxk5bzAeIMFvV/edit?usp=sharing&ouid=105064495821226407439&rtpof=true&sd=true">Phishing incident response playbook</a></br>
 | - Phishing incident alert ticket        |<a href="https://docs.google.com/document/d/1IYXkQCagblu4xgnnZcv8N9N7M5bHTBDw/edit?usp=sharing&ouid=105064495821226407439&rtpof=true&sd=true">Alert Ticket</a>|
 | - Final Report        |<a href="https://docs.google.com/document/d/1JO4hwoSmnkoaNwuMCZGoesPEbFtBLj9X/edit?usp=sharing&ouid=105064495821226407439&rtpof=true&sd=true">Final Report</a>|
-| Analyzing packets with Wireshark on a VM         | <a href="https://docs.google.com/document/d/1Xg_i8XqLCSrpxMfahVL8_KslsRO_mM9vUwRRkhm1gtQ/edit?usp=sharing">Analyze packets with Wireshark</a>|
 
 | Using tcpdump to capture and analyze live network traffic from a Linux VM         | <a href="https://docs.google.com/document/d/1IYXkQCagblu4xgnnZcv8N9N7M5bHTBDw/edit?usp=sharing&ouid=105064495821226407439&rtpof=true&sd=true">Alert Ticket</a>|
 | Explore signatures and logs with Suricata         | <a href="https://docs.google.com/document/d/19KQYlErtPr1cEafaGvayZHiPUFlm38syanW5TG3oLU4/edit?usp=sharing">Suricata Lab</a>|
