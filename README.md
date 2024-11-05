@@ -53,16 +53,12 @@ Fueled by a passion for technology and a strong foundation in leadership, I'm tr
 |<p><ul><li>Research and compare packet sniffers    | <a href="https://github.com/CoachKosik/Wireshark-Vs.-tcpdump">Wireshark Vs. tcpdump</a>|
 |<p><ul><li>Investigate a suspicious file hash    | <a href="https://github.com/CoachKosik/Pyramid-of-Pain/blob/main/README.md">Pyramid of Pain</a>|
 |<p><ul><li>Use a playbook to respond to a phishing incident        |<a href="https://github.com/CoachKosik/Alert-ticket/blob/main/README.md">Alert Ticket</a>|
+|<p><ul><li>Review a final report        |<a href="https://github.com/CoachKosik/Final-Report/blob/main/README.md">Final Report</a>|
 
 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-
-
-
-| - Final Report        |<a href="https://docs.google.com/document/d/1JO4hwoSmnkoaNwuMCZGoesPEbFtBLj9X/edit?usp=sharing&ouid=105064495821226407439&rtpof=true&sd=true">Final Report</a>|
-
 | Using tcpdump to capture and analyze live network traffic from a Linux VM         | <a href="https://docs.google.com/document/d/1IYXkQCagblu4xgnnZcv8N9N7M5bHTBDw/edit?usp=sharing&ouid=105064495821226407439&rtpof=true&sd=true">Alert Ticket</a>|
 | Explore signatures and logs with Suricata         | <a ref="https://docs.google.com/document/d/19KQYlErtPr1cEafaGvayZHiPUFlm38syanW5TG3oLU4/edit?usp=sharing">Suricata Lab</a>|
 | Splunk Intro: Perform a query with Splunk         | <a href="https://docs.google.com/document/d/1X0kBj6JbtXLd8ezKrDn7wG-Amvt45oRDcr9JEW0IP3A/edit?usp=sharing">Splunk Lab</a>|
