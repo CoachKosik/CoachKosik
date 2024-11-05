@@ -54,7 +54,7 @@ Fueled by a passion for technology and a strong foundation in leadership, I'm tr
 |<p><ul><li>Hands-On: Incident Response, Threat Intelligence, and Vulnerability Analysis:<p><p><ul><li>Investigate a suspicious file hash    | <a href="https://github.com/CoachKosik/Pyramid-of-Pain/blob/main/README.md">Pyramid of Pain</a>|
 |<p><ul><li>Hands-On: Incident Response, Threat Intelligence, and Vulnerability Analysis:<p><p><ul><li>Use a playbook to respond to a phishing incident        |<a href="https://github.com/CoachKosik/Alert-ticket/blob/main/README.md">Alert Ticket</a>|
 |<p><ul><li>Hands-On: Incident Response, Threat Intelligence, and Vulnerability Analysis:<p><p><ul><li>Review a final report        |<a href="https://github.com/CoachKosik/Final-Report/blob/main/README.md">Final Report</a>|
-|<p><ul><li>Explore signatures and logs with Suricata         | <a ref="https://github.com/CoachKosik/Suricata-Lab/blob/main/README.md">Suricata Lab</a>|
+|<p><ul><li>Explore signatures and logs with Suricata        |<a href="https://github.com/CoachKosik/Suricata-Lab/blob/main/README.md">Suricata Lab</a>    |
 
 
 | Skill                                         | Associated Project         |
