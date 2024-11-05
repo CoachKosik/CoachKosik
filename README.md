@@ -52,7 +52,7 @@ Fueled by a passion for technology and a strong foundation in leadership, I'm tr
 |<p><ul><li>Using tcpdump to capture and analyze live network traffic from a Linux VM         | <a href="https://github.com/CoachKosik/Packet-Capture/blob/main/README.md">Packet Capture </a>|
 |<p><ul><li>Research and compare packet sniffers    | <a href="https://github.com/CoachKosik/Wireshark-Vs.-tcpdump">Wireshark Vs. tcpdump</a>|
 |<p><ul><li>Investigate a suspicious file hash    | <a href="https://github.com/CoachKosik/Pyramid-of-Pain/blob/main/README.md">Pyramid of Pain</a>|
-
+|<p><ul><li>Use a playbook to respond to a phishing incident        |<a href="https://github.com/CoachKosik/Alert-ticket/blob/main/README.md">Alert Ticket</a>|
 
 
 
@@ -60,12 +60,11 @@ Fueled by a passion for technology and a strong foundation in leadership, I'm tr
 |-----------------------------------------------|----------------------------|
 
 
-| Use a playbook to respond to a phishing incident         | <a href="https://docs.google.com/document/d/1axad16ZrozrsNVVQD5nJxk5bzAeIMFvV/edit?usp=sharing&ouid=105064495821226407439&rtpof=true&sd=true">Phishing incident response playbook</a></br>
-| - Phishing incident alert ticket        |<a href="https://docs.google.com/document/d/1IYXkQCagblu4xgnnZcv8N9N7M5bHTBDw/edit?usp=sharing&ouid=105064495821226407439&rtpof=true&sd=true">Alert Ticket</a>|
+
 | - Final Report        |<a href="https://docs.google.com/document/d/1JO4hwoSmnkoaNwuMCZGoesPEbFtBLj9X/edit?usp=sharing&ouid=105064495821226407439&rtpof=true&sd=true">Final Report</a>|
 
 | Using tcpdump to capture and analyze live network traffic from a Linux VM         | <a href="https://docs.google.com/document/d/1IYXkQCagblu4xgnnZcv8N9N7M5bHTBDw/edit?usp=sharing&ouid=105064495821226407439&rtpof=true&sd=true">Alert Ticket</a>|
-| Explore signatures and logs with Suricata         | <a href="https://docs.google.com/document/d/19KQYlErtPr1cEafaGvayZHiPUFlm38syanW5TG3oLU4/edit?usp=sharing">Suricata Lab</a>|
+| Explore signatures and logs with Suricata         | <a ref="https://docs.google.com/document/d/19KQYlErtPr1cEafaGvayZHiPUFlm38syanW5TG3oLU4/edit?usp=sharing">Suricata Lab</a>|
 | Splunk Intro: Perform a query with Splunk         | <a href="https://docs.google.com/document/d/1X0kBj6JbtXLd8ezKrDn7wG-Amvt45oRDcr9JEW0IP3A/edit?usp=sharing">Splunk Lab</a>|
 
 ## Tools
