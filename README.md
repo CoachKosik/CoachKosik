@@ -56,6 +56,9 @@ Fueled by a passion for technology and a strong foundation in leadership, I'm tr
 |<p><ul><li>Hands-On: Incident Response, Threat Intelligence, and Vulnerability Analysis:<p><p><ul><li>Review a final report        |<a href="https://github.com/CoachKosik/Final-Report">Final Report</a>|
 |<p><ul><li>Explore signatures and logs with Suricata        |<a href="https://github.com/CoachKosik/Suricata-Lab">Suricata Lab</a>    |
 |<p><ul><li>Splunk Intro: Perform a query with Splunk         | <a href="https://github.com/CoachKosik/Splunk-Lab">Splunk Lab</a> |
+|<br>||
+|**Automate Cybersecurity Tasks with Python**    ||
+|<p><ul><li>Algorithm for file updates in Python         | <a href="https://github.com/CoachKosik/Python-file-uptake-algorithm">Python file update algorithm</a> |
 
 ## Tools
 
