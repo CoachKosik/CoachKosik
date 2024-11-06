@@ -9,6 +9,12 @@ Fueled by a passion for technology and a strong foundation in leadership, I'm tr
 
 ## Tools
 
+### Cybersecurity Frameworks
+<div>
+    <img src="https://img.shields.io/badge/NIST_Cybersecurity_Framework-2E3A87?style=for-the-badge&logo=shield&logoColor=ffffff" alt="NIST Cybersecurity Framework Badge" />
+    <img src="https://img.shields.io/badge/PASTA_Threat_Model-FF6F00?style=for-the-badge&logo=shield&logoColor=ffffff" alt="PASTA Threat Model Badge" />
+</div>
+
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
@@ -17,8 +23,19 @@ Fueled by a passion for technology and a strong foundation in leadership, I'm tr
 </div>
 
 ### Code
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54 />
+<div>
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff" alt="HTML Badge" />
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=ffffff" alt="SQL Badge" />
+</div>
 
+### Operating Systems and Environments:
+<div>
+    <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Badge" />
+    <img src="https://img.shields.io/badge/VirtualBox_VM-2C56C6?style=for-the-badge&logo=virtualbox&logoColor=ffffff" alt="VirtualBox VM Badge" />
+    <img src="https://img.shields.io/badge/Windows_10%2F11-0078D4?style=for-the-badge&logo=windows&logoColor=ffffff" alt="Windows 10/11 Badge" />
+    <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google-drive&logoColor=ffffff" alt="Google Workspace Badge" />
+</div>
 
 ### Endpoint
 <div>
