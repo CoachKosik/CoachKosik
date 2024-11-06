@@ -16,6 +16,10 @@ Fueled by a passion for technology and a strong foundation in leadership, I'm tr
     <img src="https://img.shields.io/badge/-tcpdump-FF4B00?&style=for-the-badge&logo=tcpdump&logoColor=white" />
 </div>
 
+### Code
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54 />
+
+
 ### Endpoint
 <div>
     Too Be Added
