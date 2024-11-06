@@ -91,7 +91,7 @@ Preperation for CompTIA Security+ (estimated by the end of 2024)<br>
 |<p><ul><li>Score risks based on their likelihood and severity         | <a href="https://github.com/CoachKosik/Risk-Register">Risk Register</a>|
 | <p><ul><li>Determine appropriate data handling practices         | <a href="https://github.com/CoachKosik/Data-leak-worksheet">Data leak worksheet</a>|
 | <p><ul><li>Decrypt a Caesar Cypher encrypted message         | <a href="https://github.com/CoachKosik/Decryption">Decryption</a>|
-| <p><ul><li>Create hash values         | <a href="https://drive.google.com/file/d/1GFSOVsN06HEJe3wLHZqF2iCJBtgAfhre/view?usp=sharing">Create Hash Values - need to make the repos!</a>|
+| <p><ul><li>Create hash values         | <a href="https://github.com/CoachKosik/Create-Hash-Values">Create Hash Values</a>|
 | <p><ul><li>Improve Authentication, Authorization, and Accounting (AAA) for a small business         | <a href="https://github.com/CoachKosik/Vulnerability-Assessment-Report">Access controls worksheet</a>|
 | <p><ul><li>Analyze a vulnerable system for a small business         | <a href="https://github.com/CoachKosik/Vulnerability-Assessment-Report">Vulnerability Assessment Report</a>|
 | <p><ul><li>Identify the attack vectors of a USB drive         | <a href="https://github.com/CoachKosik/Parking-lot-USB-exercise">Parking lot USB exercise</a>|
