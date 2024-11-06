@@ -1,4 +1,3 @@
-My GitHub is currently being updated.  Please excuse the mess.
 # Hello, I'm Justin
 <a href="https://linkedin.com/in/justin-kosik"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
