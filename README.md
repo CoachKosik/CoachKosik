@@ -7,6 +7,37 @@ Recently changing careers in high level leadership and management at the college
 
 Fueled by a passion for technology and a strong foundation in leadership, I'm transitioning into cybersecurity.  My recent Google Cybersecurity and AI Essentials certifications, coupled with my ongoing pursuit of the CompTIA Security+, demonstrate my commitment to this field.  My ultimate goal is to specialize in Identity and Access Management (IAM), leveraging my analytical and problem-solving skills to safeguard critical systems.
 
+## Tools
+
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-tcpdump-FF4B00?&style=for-the-badge&logo=tcpdump&logoColor=white" />
+</div>
+
+### Endpoint
+<div>
+    Too Be Added
+</div>
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Splunk-007CBA?&style=for-the-badge&logo=Splunk&logoColor=white" />
+</div>
+
+## Certifications
+<div>
+Google Cybersecurity Perfessional Certification <br>
+    <a href="https://coursera.org/share/31598826845bd259033fbac98e6bd2c2">
+    <img src="https://img.shields.io/badge/-Coursera-0056B3?&style=for-the-badge&logo=Coursera&logoColor=white"/></a><br>
+Google AI Essentials Certification <br>
+    <a href="https://coursera.org/share/7f7707721943fc1158e0f9ab07ffadad">
+    <img src="https://img.shields.io/badge/-Coursera-0056B3?&style=for-the-badge&logo=Coursera&logoColor=white"/></a><br>
+Preperation for CompTIA Security+ (estimated by the end of 2024)<br>
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" /><br>
+</div>
+
 # Projects and Labs
 
 | **Skills Learned**                                | **Associated Project or Lab**    |
@@ -59,38 +90,3 @@ Fueled by a passion for technology and a strong foundation in leadership, I'm tr
 |<br>||
 |**Automate Cybersecurity Tasks with Python**    ||
 |<p><ul><li>Algorithm for file updates in Python         | <a href="https://github.com/CoachKosik/Python-file-uptake-algorithm">Python file update algorithm</a> |
-
-## Tools
-
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-tcpdump-FF4B00?&style=for-the-badge&logo=tcpdump&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    Too Be Added
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Splunk-007CBA?&style=for-the-badge&logo=Splunk&logoColor=white" />
-</div>
-
-## Certifications
-<div>
-Google Cybersecurity Perfessional Certification <br>
-    <a href="https://coursera.org/share/31598826845bd259033fbac98e6bd2c2">
-    <img src="https://img.shields.io/badge/-Coursera-0056B3?&style=for-the-badge&logo=Coursera&logoColor=white"/></a><br>
-Google AI Essentials Certification <br>
-    <a href="https://coursera.org/share/7f7707721943fc1158e0f9ab07ffadad">
-    <img src="https://img.shields.io/badge/-Coursera-0056B3?&style=for-the-badge&logo=Coursera&logoColor=white"/></a><br>
-Preperation for CompTIA Security+ (estimated by the end of 2024)<br>
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" /><br>
-</div>
-
-## Projects
-- Detection Lab
-- SOC Automation Project
