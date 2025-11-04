@@ -1,10 +1,11 @@
 # Hello, I'm Justin
 <a href="https://linkedin.com/in/justin-kosik"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Recently changing careers in high level leadership and management at the college and high school levels in athletics and education to cybersecurity.  My background in leadership and strategic planning has equipped me to tackle complex challenges.  My interest for the field of cybersecurity, fueled by a desire to make a difference in the digital world, backed by my recent Google Cybersecurity and AI Essentials certifications demonstrate my commitment to this field, and I'm actively pursuing the CompTIA Security+ certification to further my knowledge.
+I'm transitioning into cybersecurity with a focus on Identity & Access Management (IAM) after more than 20 years in high-level leadership roles in education and athletics. My background in strategic planning, process discipline, documentation, and team development aligns directly with identity governance, access control, and secure authentication workflows.
 
+I hold the Google Cybersecurity Professional Certificate and AI Essentials, and I'm currently preparing for SC-900, Okta Certified Professional, and CompTIA Security+. My GitHub showcases hands-on labs in Linux permissions, IAM concepts, network analysis, Python automation, and incident documentation.
 
-Fueled by a passion for technology and a strong foundation in leadership, I'm transitioning into cybersecurity.  My recent Google Cybersecurity and AI Essentials certifications, coupled with my ongoing pursuit of the CompTIA Security+, demonstrate my commitment to this field.  My ultimate goal is to specialize in Identity and Access Management (IAM), leveraging my analytical and problem-solving skills to safeguard critical systems.
+My goal is to specialize in IAM—supporting secure authentication, authorization, and identity lifecycle management for organizations that value strong access controls and consistent security practices.
 
 ## Tools
 
