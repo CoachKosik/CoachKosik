@@ -1,3 +1,5 @@
+<p align="center"> <img src="https://github.com/CoachKosik/CoachKosik/blob/main/ChatGPT Image Nov 4, 2025, 01_37_22 PM.png" alt="Justin Kosik Banner" width="100%"> </p>
+
 # Hello, I'm Justin
 <a href="https://linkedin.com/in/justin-kosik"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 ### _Entry-Level Identity & Access Management (IAM) | Azure AD • MFA • Access Control • Google Workspace | Google Cybersecurity Certified_
