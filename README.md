@@ -1,11 +1,44 @@
 # Hello, I'm Justin
 <a href="https://linkedin.com/in/justin-kosik"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+### _Entry-Level Identity & Access Management (IAM) | Azure AD • MFA • Access Control • Google Workspace | Google Cybersecurity Certified_
 
 I'm transitioning into cybersecurity with a focus on Identity & Access Management (IAM) after more than 20 years in high-level leadership roles in education and athletics. My background in strategic planning, process discipline, documentation, and team development aligns directly with identity governance, access control, and secure authentication workflows.
 
 I hold the Google Cybersecurity Professional Certificate and AI Essentials, and I'm currently preparing for SC-900, Okta Certified Professional, and CompTIA Security+. My GitHub showcases hands-on labs in Linux permissions, IAM concepts, network analysis, Python automation, and incident documentation.
 
 My goal is to specialize in IAM—supporting secure authentication, authorization, and identity lifecycle management for organizations that value strong access controls and consistent security practices.
+
+## 🛡️ Skills Overview
+
+### 🔐 Identity & Access Management (IAM)
+- Azure AD / Entra ID  
+- Google Workspace Administration  
+- Multi-Factor Authentication (MFA)  
+- Role-Based Access Control (RBAC)  
+- Identity Lifecycle Management  
+- Least Privilege / AAA Principles  
+
+### 🧰 Security & Analysis
+- NIST Cybersecurity Framework  
+- PASTA Threat Modeling  
+- Vulnerability Assessment  
+- Incident Response  
+- Network Traffic Analysis (Wireshark, tcpdump, Suricata)  
+- SIEM Fundamentals (Splunk)  
+
+### 💻 Technical Skills
+- Linux (Users, Groups, Permissions)  
+- Windows 10/11  
+- VirtualBox  
+- SQL (Queries, Joins, Filters)  
+- Python (Automation Basics)  
+- Web Security (SSL, DDoS Protection, Firewalls)  
+
+### 🎯 Soft Skills
+- Leadership & Team Development  
+- Documentation & Reporting  
+- Communication & Training  
+- Analytical Problem-Solving  
 
 ## Tools
 
