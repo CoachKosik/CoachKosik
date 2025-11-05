@@ -90,7 +90,7 @@ Google Cybersecurity Perfessional Certification <br>
 Google AI Essentials Certification <br>
     <a href="https://coursera.org/share/7f7707721943fc1158e0f9ab07ffadad">
     <img src="https://img.shields.io/badge/-Coursera-0056B3?&style=for-the-badge&logo=Coursera&logoColor=white"/></a><br>
-Preperation for CompTIA Security+ (estimated by the end of 2024)<br>
+Preperation for CompTIA Security+ (estimated by the end of 2026)<br>
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" /><br>
 </div>
 
