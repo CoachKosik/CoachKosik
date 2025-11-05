@@ -96,53 +96,115 @@ Preperation for CompTIA Security+ (estimated by the end of 2024)<br>
 
 # Projects and Labs
 
-| **Skills Learned**                                | **Associated Project or Lab**    |
-|:-----------------------------------------------|----------------------------------|
-|**MANAGING SECURITY RISKS**        ||
-| <p><ul><li>Conduct a security audit - Controls & Compliance Checklist</li></ul>    |<a href="https://github.com/CoachKosik/Conduct-a-security-audit">Controls and compliance checklist</a>|
-|<br>||
-|**NETWORKS AND NETWORK SECURITY**    ||
-|<p><ul><li>Use the NIST Cybersecurity Framework to respond to a security incident    |<a href="https://github.com/CoachKosik/Use-the-NIST-Cybersecurity-Framework-to-respond-to-a-security-incident">Applying the NIST CSF</a>
-|<p><ul><li>Network Security, Incident Reports, and Risk Assessments    |<a href="https://github.com/CoachKosik/Network-Security-Incident-Reports-and-Risk-Assessments">Cybersecurity Incident Reports and Risk Assessment</a>    |
-|<br>||
-|**TOOLS OF THE TRADE: LINUX**    ||
-|<p><ul><li>Install software in a Linux distribution    |<a href="https://github.com/CoachKosik/Software-installation-in-Linux">Software installation in Linux</a>|
-|<p><ul><li>Find files with Linux commands    |<a href="https://github.com/CoachKosik/Find-files-with-Linux-commands">Linux commands</a>    |
-| <p><ul><li>Filter with Linux commands - grep    |<a href="https://github.com/CoachKosik/Filter-with-grep">Filter with grep</a>    |
-| <p><ul><li>Manage files with Linux commands    |<a href="https://github.com/CoachKosik/Manage-files-with-Linux-commands">Manage files in Linux</a>    |
-| <p><ul><li>Manage authorization with Linux commands    |<a href="https://github.com/CoachKosik/File-permissions-in-Linux">Manage Authorization in Linux</a>|
-| <p><ul><li>Add and manage users with Linux commands    |<a href="https://github.com/CoachKosik/Add-and-manage-users-with-Linux-commands">Manage users in Linux</a>|
-| <p><ul><li>Get help in the Linux command line    |<a href="https://github.com/CoachKosik/Get-help-in-the-Linux-command-line">Command line help in Linux</a>  |
-|<br>||
-|**TOOLS OF THE TRADE: SQL**    ||
-|<p><ul><li>Perform a SQL query    |<a href="https://github.com/CoachKosik/Perform-a-SQL-query">SQL query</a>    |
-|<p><ul><li>Apply more filters in SQL    |<a href="https://github.com/CoachKosik/More-SQL-filters">More SQL filters</a>    |
-|<p><ul><li>Filter SQL with AND, OR, and NOT    |<a href="https://github.com/CoachKosik/Filter-SQL-with-AND-OR-and-NOT">Filter with AND, OR, and NOT</a>    |
-|<p><ul><li>Apply filters to SQL queries    |<a href="https://github.com/CoachKosik/Apply-filters-to-SQL-queries">Apply filters to SQL queries</a>    |
-|<p><ul><li>Complete a SQL join    |<a href="https://github.com/CoachKosik/Complete-a-SQL-join">Complete a SQL join</a>    |
-|<br>||
-|**ASSETS, THREATS, AND VULNERABILITIES**    ||
-| <p><ul><li>Classify the assets connected to a home network         | <a href="https://github.com/CoachKosik/Home-asset-inventory">Home asset inventory</a>|
-|<p><ul><li>Score risks based on their likelihood and severity         | <a href="https://github.com/CoachKosik/Risk-Register">Risk Register</a>|
-| <p><ul><li>Determine appropriate data handling practices         | <a href="https://github.com/CoachKosik/Data-leak-worksheet">Data leak worksheet</a>|
-| <p><ul><li>Decrypt a Caesar Cypher encrypted message         | <a href="https://github.com/CoachKosik/Decryption">Decryption</a>|
-| <p><ul><li>Create hash values         | <a href="https://github.com/CoachKosik/Create-Hash-Values">Create Hash Values</a>|
-| <p><ul><li>Improve Authentication, Authorization, and Accounting (AAA) for a small business         | <a href="https://github.com/CoachKosik/Vulnerability-Assessment-Report">Access controls worksheet</a>|
-| <p><ul><li>Analyze a vulnerable system for a small business         | <a href="https://github.com/CoachKosik/Vulnerability-Assessment-Report">Vulnerability Assessment Report</a>|
-| <p><ul><li>Identify the attack vectors of a USB drive         | <a href="https://github.com/CoachKosik/Parking-lot-USB-exercise">Parking lot USB exercise</a>|
-| <p><ul><li>Filter malicious emails                |<a href="https://github.com/CoachKosik/Email-Filter">Malicious email filter</a>    |
-| <p><ul><li>Apply the PASTA threat model framework        |<a href="https://github.com/CoachKosik/PASTA-Lab">PASTA framework    |
-|<br>||
-|**DETECTION AND RESPONSE**    ||
-|<p><ul><li>Document incidents with incident handler's journals         | <a href="https://docs.google.com/document/d/1vrN1QgG070_AoVgqCwIShvMiKb8W4WVeHHrRchtRPRs/edit?usp=sharing">Incident handler's journal</a>|
-|<p><ul><li>Analyzing packets with Wireshark on a VM         | <a href="https://github.com/CoachKosik/Wireshark-Packet-Analysis">Analyze packets with Wireshark</a>|
-|<p><ul><li>Using tcpdump to capture and analyze live network traffic from a Linux VM         | <a href="https://github.com/CoachKosik/Packet-Capture">Packet Capture </a>|
-|<p><ul><li>Research and compare packet sniffers    | <a href="https://github.com/CoachKosik/Wireshark-Vs.-tcpdump">Wireshark Vs. tcpdump</a>|
-|<p><ul><li>Hands-On: Incident Response, Threat Intelligence, and Vulnerability Analysis:<p><p><ul><li>Investigate a suspicious file hash    | <a href="https://github.com/CoachKosik/Pyramid-of-Pain">Pyramid of Pain</a>|
-|<p><ul><li>Hands-On: Incident Response, Threat Intelligence, and Vulnerability Analysis:<p><p><ul><li>Use a playbook to respond to a phishing incident        |<a href="https://github.com/CoachKosik/Alert-ticket">Alert Ticket</a>|
-|<p><ul><li>Hands-On: Incident Response, Threat Intelligence, and Vulnerability Analysis:<p><p><ul><li>Review a final report        |<a href="https://github.com/CoachKosik/Final-Report">Final Report</a>|
-|<p><ul><li>Explore signatures and logs with Suricata        |<a href="https://github.com/CoachKosik/Suricata-Lab">Suricata Lab</a>    |
-|<p><ul><li>Splunk Intro: Perform a query with Splunk         | <a href="https://github.com/CoachKosik/Splunk-Lab">Splunk Lab</a> |
-|<br>||
-|**Automate Cybersecurity Tasks with Python**    ||
-|<p><ul><li>Algorithm for file updates in Python         | <a href="https://github.com/CoachKosik/Python-file-uptake-algorithm">Python file update algorithm</a> |
+---
+
+# 🔐 Identity & Access Management (IAM) Projects
+
+![Azure](https://img.shields.io/badge/Azure_Entra_ID-IAM-blue?style=flat-square)
+![RBAC](https://img.shields.io/badge/Role_Based_Access_Control-Security-blue?style=flat-square)
+![MFA](https://img.shields.io/badge/Multi_Factor_Authentication-Identity-blue?style=flat-square)
+
+| **Project** | **Description** |
+|-------------|-----------------|
+| [Azure AD / Entra ID — Identity Basics Lab](https://github.com/CoachKosik/azure-ad-identity-basics) | Created users, security groups, and directory roles with RBAC and least-privilege access. Demonstrates core identity administration skills. |
+| *More IAM projects coming soon…* | MFA Enforcement, Conditional Access, and Joiner–Mover–Leaver workflow labs will be added here. |
+
+# 🛡️ Cybersecurity Projects & Labs
+
+---
+
+![Linux](https://img.shields.io/badge/Linux-Command_Line-blue?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-Queries_&_Joins-blue?style=flat-square)
+![NIST](https://img.shields.io/badge/NIST_Cybersecurity_Framework-Security-blue?style=flat-square)
+![Network](https://img.shields.io/badge/Network_Analysis-Wireshark-blue?style=flat-square)
+![Incident_Response](https://img.shields.io/badge/Incident_Response-Analysis-blue?style=flat-square)
+![Python](https://img.shields.io/badge/Python-Automation-blue?style=flat-square)
+
+Here are the hands-on projects from my Google Cybersecurity Professional Certificate and additional security labs.
+
+---
+
+## ✅ Managing Security Risks
+- **Controls & Compliance Checklist**  
+  https://github.com/CoachKosik/Conduct-a-security-audit  
+
+---
+
+## ✅ Networks & Network Security
+- **Applying the NIST CSF**  
+  https://github.com/CoachKosik/Use-the-NIST-Cybersecurity-Framework-to-respond-to-a-security-incident  
+- **Incident Reports & Risk Assessments**  
+  https://github.com/CoachKosik/Network-Security-Incident-Reports-and-Risk-Assessments  
+
+---
+
+## ✅ Linux Skills (Users, Groups, Permissions)
+- Software Installation  
+  https://github.com/CoachKosik/Software-installation-in-Linux  
+- File Discovery & grep Filtering  
+  https://github.com/CoachKosik/Find-files-with-Linux-commands  
+  https://github.com/CoachKosik/Filter-with-grep  
+- Permissions & Authorization  
+  https://github.com/CoachKosik/File-permissions-in-Linux  
+- User/Group Management  
+  https://github.com/CoachKosik/Add-and-manage-users-with-Linux-commands  
+
+---
+
+## ✅ SQL: Queries, Filters, Joins
+- SQL Query Lab  
+  https://github.com/CoachKosik/Perform-a-SQL-query  
+- Filters (AND/OR/NOT)  
+  https://github.com/CoachKosik/Filter-SQL-with-AND-OR-and-NOT  
+- SQL Joins  
+  https://github.com/CoachKosik/Complete-a-SQL-join  
+
+---
+
+## ✅ Assets, Threats, and Vulnerabilities
+- Home Asset Inventory  
+  https://github.com/CoachKosik/Home-asset-inventory  
+- Risk Register  
+  https://github.com/CoachKosik/Risk-Register  
+- Data Handling Practices  
+  https://github.com/CoachKosik/Data-leak-worksheet  
+- Caesar Cipher Decryption  
+  https://github.com/CoachKosik/Decryption  
+- Hash Creation  
+  https://github.com/CoachKosik/Create-Hash-Values  
+- Vulnerability Assessment  
+  https://github.com/CoachKosik/Vulnerability-Assessment-Report  
+- USB Attack Vector Analysis  
+  https://github.com/CoachKosik/Parking-lot-USB-exercise  
+- Malicious Email Filtering  
+  https://github.com/CoachKosik/Email-Filter  
+- PASTA Threat Model Lab  
+  https://github.com/CoachKosik/PASTA-Lab  
+
+---
+
+## ✅ Detection & Response
+- Incident Handler’s Journal  
+  *(Google Doc)* https://docs.google.com/document/d/1vrN1QgG070_AoVgqCwIShvMiKb8W4WVeHHrRchtRPRs/edit?usp=sharing  
+- Wireshark Packet Analysis  
+  https://github.com/CoachKosik/Wireshark-Packet-Analysis  
+- tcpdump Capture & Analysis  
+  https://github.com/CoachKosik/Packet-Capture  
+- Wireshark vs tcpdump Comparison  
+  https://github.com/CoachKosik/Wireshark-Vs.-tcpdump  
+- Pyramid of Pain (Threat Intelligence)  
+  https://github.com/CoachKosik/Pyramid-of-Pain  
+- Phishing Incident Response Playbook  
+  https://github.com/CoachKosik/Alert-ticket  
+- Final Incident Report  
+  https://github.com/CoachKosik/Final-Report  
+- Suricata Signatures & Logs  
+  https://github.com/CoachKosik/Suricata-Lab  
+- Splunk Search Lab  
+  https://github.com/CoachKosik/Splunk-Lab  
+
+---
+
+## ✅ Python Automation
+- File Update Automation Algorithm  
+  https://github.com/CoachKosik/Python-file-uptake-algorithm  
