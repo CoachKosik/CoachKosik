@@ -1,210 +1,210 @@
-<p align="center"> <img src="https://github.com/CoachKosik/CoachKosik/blob/main/ChatGPT Image Nov 4, 2025, 01_37_22 PM.png" alt="Justin Kosik Banner" width="100%"> </p>
+<p align="center">
+  <img src="https://github.com/CoachKosik/CoachKosik/blob/main/ChatGPT Image Nov 4, 2025, 01_37_22 PM.png" alt="Justin Kosik Banner" width="100%">
+</p>
 
 # Hello, I'm Justin
-<a href="https://linkedin.com/in/justin-kosik"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-### _Entry-Level Identity & Access Management (IAM) | Azure AD • MFA • Access Control • Google Workspace | Google Cybersecurity Certified_
 
-I'm transitioning into cybersecurity with a focus on Identity & Access Management (IAM) after more than 20 years in high-level leadership roles in education and athletics. My background in strategic planning, process discipline, documentation, and team development aligns directly with identity governance, access control, and secure authentication workflows.
+## 👨‍💻 About Me
+I’m transitioning into cybersecurity with a focus on **Identity & Access Management (IAM)** after 20+ years in high-level leadership roles in education and athletics. My background in strategic planning, documentation, time management, process discipline, and team development aligns directly with identity governance, access control, and authentication workflows.
 
-I hold the Google Cybersecurity Professional Certificate and AI Essentials, and I'm currently preparing for SC-900, Okta Certified Professional, and CompTIA Security+. My GitHub showcases hands-on labs in Linux permissions, IAM concepts, network analysis, Python automation, and incident documentation.
+I hold the **Google Cybersecurity Professional Certificate** and **AI Essentials**, and I'm currently preparing for **Microsoft SC-900**, **Okta Certified Professional**, and **CompTIA Security+**. My GitHub showcases hands-on labs across IAM, Linux permissions, network analysis, SIEM fundamentals, Python automation, and threat modeling.
 
-My goal is to specialize in IAM—supporting secure authentication, authorization, and identity lifecycle management for organizations that value strong access controls and consistent security practices.
+My career goal is to become an IAM engineer specializing in **identity lifecycle management, RBAC, MFA, and secure authentication for modern enterprise environments**.
 
-## 🛡️ Skills Overview
+### Connect with Me
+<a href="https://linkedin.com/in/justin-kosik">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-### 🔐 Identity & Access Management (IAM)
+---
+
+## 🎯 Current Focus
+- Completing **Microsoft SC-900**
+- Building IAM portfolio projects (MFA, Conditional Access, JML workflow)
+- Studying for **Okta Certified Professional**
+- Preparing for **CompTIA Security+**  
+- Strengthening identity automation skills in Python
+
+---
+
+# 🛡️ Skills Overview
+
+## 🔐 Identity & Access Management (IAM)
 - Azure AD / Entra ID  
 - Google Workspace Administration  
 - Multi-Factor Authentication (MFA)  
 - Role-Based Access Control (RBAC)  
-- Identity Lifecycle Management  
+- Identity Lifecycle (JML)  
 - Least Privilege / AAA Principles  
 
-### 🧰 Security & Analysis
+## 🧰 Security & Analysis
 - NIST Cybersecurity Framework  
 - PASTA Threat Modeling  
 - Vulnerability Assessment  
 - Incident Response  
-- Network Traffic Analysis (Wireshark, tcpdump, Suricata)  
-- SIEM Fundamentals (Splunk)  
+- Wireshark / Suricata / tcpdump  
+- SIEM (Splunk)  
 
-### 💻 Technical Skills
+## 💻 Technical Skills
 - Linux (Users, Groups, Permissions)  
 - Windows 10/11  
 - VirtualBox  
-- SQL (Queries, Joins, Filters)  
-- Python (Automation Basics)  
-- Web Security (SSL, DDoS Protection, Firewalls)  
+- SQL (Queries, Filters, Joins)  
+- Python Automation  
+- Web Security (SSL, DDoS Protection, Firewalls)
 
-### 🎯 Soft Skills
+## 🎯 Soft Skills
 - Leadership & Team Development  
-- Documentation & Reporting  
 - Communication & Training  
+- Documentation & Reporting  
 - Analytical Problem-Solving  
 
-## Tools
+---
+
+# 🧩 Tools & Technologies
 
 ### Cybersecurity Frameworks
-<div>
-    <img src="https://img.shields.io/badge/NIST_Cybersecurity_Framework-2E3A87?style=for-the-badge&logo=shield&logoColor=ffffff" alt="NIST Cybersecurity Framework Badge" />
-    <img src="https://img.shields.io/badge/PASTA_Threat_Model-FF6F00?style=for-the-badge&logo=shield&logoColor=ffffff" alt="PASTA Threat Model Badge" />
-</div>
+![NIST](https://img.shields.io/badge/NIST_CSF-2E3A87?style=flat-square)
+![PASTA](https://img.shields.io/badge/PASTA_Threat_Model-FF6F00?style=flat-square)
 
 ### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-tcpdump-FF4B00?&style=for-the-badge&logo=tcpdump&logoColor=white" />
-</div>
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square)
+![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=flat-square)
+![tcpdump](https://img.shields.io/badge/tcpdump-FF4B00?style=flat-square)
 
 ### Code
-<div>
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff" alt="HTML Badge" />
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=ffffff" alt="SQL Badge" />
-</div>
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
 
-### Operating Systems and Environments:
-<div>
-    <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Badge" />
-    <img src="https://img.shields.io/badge/VirtualBox_VM-2C56C6?style=for-the-badge&logo=virtualbox&logoColor=ffffff" alt="VirtualBox VM Badge" />
-    <img src="https://img.shields.io/badge/Windows_10%2F11-0078D4?style=for-the-badge&logo=windows&logoColor=ffffff" alt="Windows 10/11 Badge" />
-    <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google-drive&logoColor=ffffff" alt="Google Workspace Badge" />
-</div>
+### Operating Systems
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-2C56C6?style=flat-square)
+![Windows](https://img.shields.io/badge/Windows_10/11-0078D4?style=flat-square)
+![Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat-square)
 
-### Endpoint
-<div>
-    Too Be Added
-</div>
+### Endpoint Security
+- (New labs coming soon)
 
 ### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Splunk-007CBA?&style=for-the-badge&logo=Splunk&logoColor=white" />
-</div>
+![Splunk](https://img.shields.io/badge/Splunk-007CBA?style=flat-square)
 
-## Certifications
-<div>
-Google Cybersecurity Perfessional Certification <br>
-    <a href="https://coursera.org/share/31598826845bd259033fbac98e6bd2c2">
-    <img src="https://img.shields.io/badge/-Coursera-0056B3?&style=for-the-badge&logo=Coursera&logoColor=white"/></a><br>
-Google AI Essentials Certification <br>
-    <a href="https://coursera.org/share/7f7707721943fc1158e0f9ab07ffadad">
-    <img src="https://img.shields.io/badge/-Coursera-0056B3?&style=for-the-badge&logo=Coursera&logoColor=white"/></a><br>
-Preperation for CompTIA Security+ (estimated by the end of 2026)<br>
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" /><br>
-</div>
+---
 
-# Projects and Labs
+# 📜 Certifications
+
+- **Google Cybersecurity Professional Certificate**  
+  <a href="https://coursera.org/share/31598826845bd259033fbac98e6bd2c2">
+    <img src="https://img.shields.io/badge/Coursera-0056B3?style=flat-square&logo=Coursera&logoColor=white" />
+  </a>
+
+- **Google AI Essentials Certification**  
+  <a href="https://coursera.org/share/7f7707721943fc1158e0f9ab07ffadad">
+    <img src="https://img.shields.io/badge/Coursera-0056B3?style=flat-square&logo=Coursera&logoColor=white" />
+  </a>
+
+- **Preparing for CompTIA Security+ (Target: 2025)**  
+  ![Security+](https://img.shields.io/badge/Security%2B-EB3F3F?style=flat-square&logo=CompTIA&logoColor=white)
 
 ---
 
 # 🔐 Identity & Access Management (IAM) Projects
 
 ![Azure](https://img.shields.io/badge/Azure_Entra_ID-IAM-blue?style=flat-square)
-![RBAC](https://img.shields.io/badge/Role_Based_Access_Control-Security-blue?style=flat-square)
-![MFA](https://img.shields.io/badge/Multi_Factor_Authentication-Identity-blue?style=flat-square)
+![RBAC](https://img.shields.io/badge/RBAC-Least_Privilege-blue?style=flat-square)
+![MFA](https://img.shields.io/badge/MFA-Authentication-blue?style=flat-square)
 
 | **Project** | **Description** |
 |-------------|-----------------|
-| [Azure AD / Entra ID — Identity Basics Lab](https://github.com/CoachKosik/azure-ad-identity-basics) | Created users, security groups, and directory roles with RBAC and least-privilege access. Demonstrates core identity administration skills. |
-| *More IAM projects coming soon…* | MFA Enforcement, Conditional Access, and Joiner–Mover–Leaver workflow labs will be added here. |
-
-# 🛡️ Cybersecurity Projects & Labs
+| **[Azure AD / Entra ID — Identity Basics Lab](https://github.com/CoachKosik/azure-ad-identity-basics)** | Created users, groups, and roles using RBAC & least privilege. Foundation IAM project for identity governance. |
+| *More IAM labs coming soon…* | MFA enforcement, JML lifecycle, Conditional Access, and Identity Governance automations. |
 
 ---
 
+# 🛡️ Cybersecurity Projects & Labs
+
 ![Linux](https://img.shields.io/badge/Linux-Command_Line-blue?style=flat-square)
 ![SQL](https://img.shields.io/badge/SQL-Queries_&_Joins-blue?style=flat-square)
-![NIST](https://img.shields.io/badge/NIST_Cybersecurity_Framework-Security-blue?style=flat-square)
+![NIST](https://img.shields.io/badge/NIST_CSF-Security-blue?style=flat-square)
 ![Network](https://img.shields.io/badge/Network_Analysis-Wireshark-blue?style=flat-square)
-![Incident_Response](https://img.shields.io/badge/Incident_Response-Analysis-blue?style=flat-square)
+![IR](https://img.shields.io/badge/Incident_Response-Analysis-blue?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-Automation-blue?style=flat-square)
 
-Here are the hands-on projects from my Google Cybersecurity Professional Certificate and additional security labs.
+Here are the hands-on labs from my **Google Cybersecurity Professional Certificate** and additional security exercises.
 
 ---
 
 ## ✅ Managing Security Risks
-- **Controls & Compliance Checklist**  
+- Controls & Compliance Checklist  
   https://github.com/CoachKosik/Conduct-a-security-audit  
 
 ---
 
 ## ✅ Networks & Network Security
-- **Applying the NIST CSF**  
+- Applying the NIST CSF  
   https://github.com/CoachKosik/Use-the-NIST-Cybersecurity-Framework-to-respond-to-a-security-incident  
-- **Incident Reports & Risk Assessments**  
+- Incident Reports & Risk Assessments  
   https://github.com/CoachKosik/Network-Security-Incident-Reports-and-Risk-Assessments  
 
 ---
 
 ## ✅ Linux Skills (Users, Groups, Permissions)
 - Software Installation  
-  https://github.com/CoachKosik/Software-installation-in-Linux  
-- File Discovery & grep Filtering  
-  https://github.com/CoachKosik/Find-files-with-Linux-commands  
-  https://github.com/CoachKosik/Filter-with-grep  
+- File Discovery & grep  
 - Permissions & Authorization  
-  https://github.com/CoachKosik/File-permissions-in-Linux  
 - User/Group Management  
-  https://github.com/CoachKosik/Add-and-manage-users-with-Linux-commands  
+(Each lab linked individually below)
+
+https://github.com/CoachKosik/Software-installation-in-Linux  
+https://github.com/CoachKosik/Find-files-with-Linux-commands  
+https://github.com/CoachKosik/Filter-with-grep  
+https://github.com/CoachKosik/File-permissions-in-Linux  
+https://github.com/CoachKosik/Add-and-manage-users-with-Linux-commands  
 
 ---
 
 ## ✅ SQL: Queries, Filters, Joins
-- SQL Query Lab  
-  https://github.com/CoachKosik/Perform-a-SQL-query  
-- Filters (AND/OR/NOT)  
-  https://github.com/CoachKosik/Filter-SQL-with-AND-OR-and-NOT  
-- SQL Joins  
-  https://github.com/CoachKosik/Complete-a-SQL-join  
+https://github.com/CoachKosik/Perform-a-SQL-query  
+https://github.com/CoachKosik/More-SQL-filters  
+https://github.com/CoachKosik/Filter-SQL-with-AND-OR-and-NOT  
+https://github.com/CoachKosik/Apply-filters-to-SQL-queries  
+https://github.com/CoachKosik/Complete-a-SQL-join  
 
 ---
 
 ## ✅ Assets, Threats, and Vulnerabilities
-- Home Asset Inventory  
-  https://github.com/CoachKosik/Home-asset-inventory  
-- Risk Register  
-  https://github.com/CoachKosik/Risk-Register  
-- Data Handling Practices  
-  https://github.com/CoachKosik/Data-leak-worksheet  
-- Caesar Cipher Decryption  
-  https://github.com/CoachKosik/Decryption  
-- Hash Creation  
-  https://github.com/CoachKosik/Create-Hash-Values  
-- Vulnerability Assessment  
-  https://github.com/CoachKosik/Vulnerability-Assessment-Report  
-- USB Attack Vector Analysis  
-  https://github.com/CoachKosik/Parking-lot-USB-exercise  
-- Malicious Email Filtering  
-  https://github.com/CoachKosik/Email-Filter  
-- PASTA Threat Model Lab  
-  https://github.com/CoachKosik/PASTA-Lab  
+https://github.com/CoachKosik/Home-asset-inventory  
+https://github.com/CoachKosik/Risk-Register  
+https://github.com/CoachKosik/Data-leak-worksheet  
+https://github.com/CoachKosik/Decryption  
+https://github.com/CoachKosik/Create-Hash-Values  
+https://github.com/CoachKosik/Vulnerability-Assessment-Report  
+https://github.com/CoachKosik/Parking-lot-USB-exercise  
+https://github.com/CoachKosik/Email-Filter  
+https://github.com/CoachKosik/PASTA-Lab  
 
 ---
 
 ## ✅ Detection & Response
-- Incident Handler’s Journal  
-  *(Google Doc)* https://docs.google.com/document/d/1vrN1QgG070_AoVgqCwIShvMiKb8W4WVeHHrRchtRPRs/edit?usp=sharing  
-- Wireshark Packet Analysis  
-  https://github.com/CoachKosik/Wireshark-Packet-Analysis  
-- tcpdump Capture & Analysis  
-  https://github.com/CoachKosik/Packet-Capture  
-- Wireshark vs tcpdump Comparison  
-  https://github.com/CoachKosik/Wireshark-Vs.-tcpdump  
-- Pyramid of Pain (Threat Intelligence)  
-  https://github.com/CoachKosik/Pyramid-of-Pain  
-- Phishing Incident Response Playbook  
-  https://github.com/CoachKosik/Alert-ticket  
-- Final Incident Report  
-  https://github.com/CoachKosik/Final-Report  
-- Suricata Signatures & Logs  
-  https://github.com/CoachKosik/Suricata-Lab  
-- Splunk Search Lab  
-  https://github.com/CoachKosik/Splunk-Lab  
+https://github.com/CoachKosik/Wireshark-Packet-Analysis  
+https://github.com/CoachKosik/Packet-Capture  
+https://github.com/CoachKosik/Wireshark-Vs.-tcpdump  
+https://github.com/CoachKosik/Pyramid-of-Pain  
+https://github.com/CoachKosik/Alert-ticket  
+https://github.com/CoachKosik/Final-Report  
+https://github.com/CoachKosik/Suricata-Lab  
+https://github.com/CoachKosik/Splunk-Lab  
+
+Incident Handler Journal (Google Doc):  
+https://docs.google.com/document/d/1vrN1QgG070_AoVgqCwIShvMiKb8W4WVeHHrRchtRPRs/edit?usp=sharing  
 
 ---
 
 ## ✅ Python Automation
-- File Update Automation Algorithm  
-  https://github.com/CoachKosik/Python-file-uptake-algorithm  
+https://github.com/CoachKosik/Python-file-uptake-algorithm  
+
+---
+
+# ⭐ Final Note
+If you're interested in IAM, cybersecurity collaboration, or mentoring opportunities, feel free to reach out on LinkedIn!
+
