@@ -118,7 +118,9 @@ My career goal is to become an IAM engineer specializing in **identity lifecycle
 |-------------|-----------------|
 | [Azure AD / Entra ID — Identity Basics Lab](https://github.com/CoachKosik/azure-ad-identity-basics) | Created users, security groups, and directory roles with RBAC and least-privilege access. Demonstrates core identity administration skills. |
 | [Azure AD / Entra ID — MFA Enforcement Lab](https://github.com/CoachKosik/azure-ad-mfa-enforcement) | Configured and enforced Microsoft Authenticator MFA for a targeted group using Authentication Method Policies and a Registration Campaign. Includes user sign-in testing, registration flow, and IAM access governance rationale. |
-| *More IAM projects coming soon…* | Conditional Access, Passwordless, and Joiner–Mover–Leaver workflow labs will be added here. |
+| [Azure AD / Entra ID — Identity Lifecycle (JML) Project](https://github.com/CoachKosik/Project-3-Entra-ID-Azure-AD-Identity-Lifecycle-JML) | Full Joiner–Mover–Leaver workflow with department transitions, RBAC-based access updates, enterprise app assignments, least-privilege deprovisioning, and audit-ready documentation. |
+| *More IAM projects coming soon…* | Conditional Access, Passwordless, and Access Governance labs will be added here. |
+
 
 ---
 
