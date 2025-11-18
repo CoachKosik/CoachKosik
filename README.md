@@ -113,11 +113,12 @@ Azure RBAC • MFA • Conditional Access • Lifecycle Governance
 
 | Project | Description |
 |---------|-------------|
-| **Azure AD / Entra ID — Identity Basics Lab** | Created users, security groups, and directory roles with RBAC and least-privilege access. Demonstrates core identity administration skills. |
-| **Project 2 — Enforce Multi-Factor Authentication (MFA)** | Configured and enforced Microsoft Authenticator MFA for a targeted group using Authentication Method Policies and a Registration Campaign. Includes user sign-in testing, registration flow, and IAM access governance rationale. |
-| **Azure AD / Entra ID — Identity Lifecycle (JML) Project** | Full Joiner → Mover → Leaver workflow with department transitions, RBAC-based access updates, enterprise app assignments, least-privilege deprovisioning, and audit-ready documentation. |
-| **Project 4 — Zero Trust Conditional Access Enforcement** | Built a full Conditional Access policy stack using governance groups, named locations, MFA enforcement, and break-glass protections. Demonstrates real-world Zero Trust enforcement and policy audit evidence. |
+| **Azure AD / Entra ID — Identity Basics Lab**  <br>🔗 https://github.com/CoachKosik/Azure-AD-Entra-ID-Identity-Basics-Lab | Created users, security groups, and directory roles with RBAC and least-privilege access. Demonstrates core identity administration skills. |
+| **Project 2 — Enforce Multi-Factor Authentication (MFA)**  <br>🔗 https://github.com/CoachKosik/azure-ad-mfa-enforcement | Configured and enforced Microsoft Authenticator MFA using Authentication Method Policies + Registration Campaign. Includes sign-in validation and audit screenshots. |
+| **Azure AD / Entra ID — Identity Lifecycle (JML) Project**  <br>🔗 https://github.com/CoachKosik/Project-3-Entra-ID-Azure-AD-Identity-Lifecycle-JML | Full Joiner → Mover → Leaver workflow with RBAC group changes, custom app provisioning/removal, offboarding cleanup, and evidence reporting. |
+| **Project 4 — Zero Trust Conditional Access Enforcement**  <br>🔗 https://github.com/CoachKosik/Project-4-Zero-Trust-Conditional-Access | Built a full Conditional Access policy stack using governance groups, named locations, MFA enforcement, and break-glass protections with audit evidence. |
 | *More IAM projects coming soon…* | Passwordless, Access Reviews, and Privileged Identity Management labs will be added here. |
+
 
 ---
 
