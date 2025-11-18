@@ -108,19 +108,16 @@ My career goal is to become an IAM engineer specializing in **identity lifecycle
 
 ---
 
-# 🔐 Identity & Access Management (IAM) Projects
+🔐 Identity & Access Management (IAM) Projects  
+Azure RBAC • MFA • Conditional Access • Lifecycle Governance
 
-![Azure](https://img.shields.io/badge/Azure_Entra_ID-IAM-blue?style=flat-square)
-![RBAC](https://img.shields.io/badge/RBAC-Least_Privilege-blue?style=flat-square)
-![MFA](https://img.shields.io/badge/MFA-Authentication-blue?style=flat-square)
-
-| **Project** | **Description** |
-|-------------|-----------------|
-| [Azure AD / Entra ID — Identity Basics Lab](https://github.com/CoachKosik/Azure-AD-Entra-ID-Identity-Basics-Lab/blob/main/README.md) | Created users, security groups, and directory roles with RBAC and least-privilege access. Demonstrates core identity administration skills. |
-| [Project 2 — Enforce Multi-Factor Authentication (MFA)](https://github.com/CoachKosik/azure-ad-mfa-enforcement/blob/main/README.md) | Configured and enforced Microsoft Authenticator MFA for a targeted group using Authentication Method Policies and a Registration Campaign. Includes user sign-in testing, registration flow, and IAM access governance rationale. |
-| [Azure AD / Entra ID — Identity Lifecycle (JML) Project](https://github.com/CoachKosik/Project-3-Entra-ID-Azure-AD-Identity-Lifecycle-JML/blob/main/README.md) | Full Joiner–Mover–Leaver workflow with department transitions, RBAC-based access updates, enterprise app assignments, least-privilege deprovisioning, and audit-ready documentation. |
-| *More IAM projects coming soon…* | Conditional Access, Passwordless, and Access Governance labs will be added here. |
-
+| Project | Description |
+|---------|-------------|
+| **Azure AD / Entra ID — Identity Basics Lab** | Created users, security groups, and directory roles with RBAC and least-privilege access. Demonstrates core identity administration skills. |
+| **Project 2 — Enforce Multi-Factor Authentication (MFA)** | Configured and enforced Microsoft Authenticator MFA for a targeted group using Authentication Method Policies and a Registration Campaign. Includes user sign-in testing, registration flow, and IAM access governance rationale. |
+| **Azure AD / Entra ID — Identity Lifecycle (JML) Project** | Full Joiner → Mover → Leaver workflow with department transitions, RBAC-based access updates, enterprise app assignments, least-privilege deprovisioning, and audit-ready documentation. |
+| **Project 4 — Zero Trust Conditional Access Enforcement** | Built a full Conditional Access policy stack using governance groups, named locations, MFA enforcement, and break-glass protections. Demonstrates real-world Zero Trust enforcement and policy audit evidence. |
+| *More IAM projects coming soon…* | Passwordless, Access Reviews, and Privileged Identity Management labs will be added here. |
 
 ---
 
