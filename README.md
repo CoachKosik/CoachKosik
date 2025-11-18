@@ -113,12 +113,11 @@ Azure RBAC • MFA • Conditional Access • Lifecycle Governance
 
 | Project | Description |
 |---------|-------------|
-| **Azure AD / Entra ID — Identity Basics Lab**  <br>🔗 https://github.com/CoachKosik/Azure-AD-Entra-ID-Identity-Basics-Lab | Created users, security groups, and directory roles with RBAC and least-privilege access. Demonstrates core identity administration skills. |
-| **Project 2 — Enforce Multi-Factor Authentication (MFA)**  <br>🔗 https://github.com/CoachKosik/azure-ad-mfa-enforcement | Configured and enforced Microsoft Authenticator MFA using Authentication Method Policies + Registration Campaign. Includes sign-in validation and audit screenshots. |
-| **Azure AD / Entra ID — Identity Lifecycle (JML) Project**  <br>🔗 https://github.com/CoachKosik/Project-3-Entra-ID-Azure-AD-Identity-Lifecycle-JML | Full Joiner → Mover → Leaver workflow with RBAC group changes, custom app provisioning/removal, offboarding cleanup, and evidence reporting. |
-| **Project 4 — Zero Trust Conditional Access Enforcement**  <br>🔗 https://github.com/CoachKosik/Project-4-Zero-Trust-Conditional-Access | Built a full Conditional Access policy stack using governance groups, named locations, MFA enforcement, and break-glass protections with audit evidence. |
+| **[Azure AD / Entra ID — Identity Basics Lab](https://github.com/CoachKosik/Azure-AD-Entra-ID-Identity-Basics-Lab)** | Created users, security groups, and directory roles following least-privilege RBAC principles. Demonstrates core identity administration fundamentals. <br>**Skills:** Entra ID • RBAC • User Provisioning • Security Groups |
+| **[Project 2 — Enforce Multi-Factor Authentication (MFA)](https://github.com/CoachKosik/azure-ad-mfa-enforcement)** | Enforced Microsoft Authenticator MFA using Conditional Access, Authentication Method Policies, and user registration flows. Includes full sign-in testing and audit evidence. <br>**Skills:** MFA • Conditional Access • Authentication Methods • Zero Trust |
+| **[Azure AD / Entra ID — Identity Lifecycle (JML) Project](https://github.com/CoachKosik/Project-3-Entra-ID-Azure-AD-Identity-Lifecycle-JML)** | Full Joiner → Mover → Leaver lifecycle with department transitions, app entitlement changes, session revocation, and termination governance. Includes custom enterprise app provisioning. <br>**Skills:** JML • Identity Governance • Access Reviews • Lifecycle Automation |
+| **[Project 4 — Zero Trust Conditional Access Enforcement](https://github.com/CoachKosik/Project-4-Zero-Trust-Conditional-Access)** | Built a full Zero Trust Conditional Access policy stack including MFA enforcement, Geo restrictions, Legacy Auth blocking, and Break-Glass resilience. Includes governance group design and enforcement evidence. <br>**Skills:** Zero Trust • Conditional Access • Named Locations • Legacy Auth Blocking |
 | *More IAM projects coming soon…* | Passwordless, Access Reviews, and Privileged Identity Management labs will be added here. |
-
 
 ---
 
