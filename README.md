@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="(https://github.com/CoachKosik/CoachKosik/blob/main/images/GitHub_README_Banner.png)" width="100%">
+  <img src="(https://github.com/CoachKosik/CoachKosik/blob/main/images/github_banner.png)" width="100%">
 </p>
 
 # 👋 Hi, I'm Justin  
