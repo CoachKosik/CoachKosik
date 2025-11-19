@@ -167,7 +167,7 @@ All supporting labs are grouped below in structured, collapsible sections.
 - **Google AI Essentials**  
 - **SC-900 (In Progress)**  
 - **Okta Certified Professional (In Progress)**  
-- **Security+ (Planned 2025)**  
+- **Security+ (Planned 2026)**  
 
 ---
 
