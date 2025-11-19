@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/CoachKosik/CoachKosik/blob/main/ChatGPT%20Image%20Nov%204%2C%202025%2C%2001_37_22%20PM.png" width="100%">
+  <img src="images/GitHub README Banner.png" width="100%">
 </p>
 
 # 👋 Hi, I'm Justin  
